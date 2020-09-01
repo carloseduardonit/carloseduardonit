@@ -2,8 +2,6 @@
 
 Seja bem vindo !!!
 
-![](.gitbook/assets/linkedin-1-.png)
-
 ## Quem Sou eu?
 
 * Analista e Desenvolvedor de Sistemas;
