@@ -7,7 +7,7 @@ Seja bem vindo !!!
 * Analista e Desenvolvedor de sistemas;
   * 
 * Técnico em Manutenção e Suporte  de  Informatica;
-* Técnico em  contabilidade
+* Técnico em Contabilidade
 
  
 
