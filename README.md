@@ -5,10 +5,14 @@ Seja bem vindo !!!
 ## Quem Sou eu?
 
 * Analista e Desenvolvedor de Sistemas;
+  * Metodologia:
+    * Clear Code,
+    * 
   * Linguagem de Programação:
-    * Java
+    * Java,
+    * 
   * Banco de Dados:
-    * MySQL;
+    * MySQL.
 * Técnico em Manutenção e Suporte  de  Informatica;
 * Técnico em Contabilidade.
 
