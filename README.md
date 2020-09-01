@@ -1,8 +1,8 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-![aaa](.gitbook/assets/linkedin-1-.png)
-
 Seja bem vindo !!!
+
+![](.gitbook/assets/linkedin-1-.png)
 
 ## Quem Sou eu?
 
