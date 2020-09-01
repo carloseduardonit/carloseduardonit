@@ -4,10 +4,11 @@ Seja bem vindo !!!
 
 ## Quem Sou eu?
 
-* Analista e Desenvolvedor de sistemas;
+* Analista e Desenvolvedor de Sistemas;
+  * Java
   * 
 * Técnico em Manutenção e Suporte  de  Informatica;
-* Técnico em Contabilidade
+* Técnico em Contabilidade.
 
  
 
