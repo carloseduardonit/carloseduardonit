@@ -21,7 +21,7 @@ Seja bem vindo !!!
 * Técnico em Contabilidade;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
-        * Simples Nacional
+    * Simples Nacional
 
 * Auxiliar de Marcenaria;
 
