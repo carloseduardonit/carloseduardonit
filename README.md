@@ -4,7 +4,7 @@ Seja bem vindo !!!
 
 | Twitter | Instagran | Linkedin | Github  |
 | :--- | :--- | :--- | :--- |
-| [![](.gitbook/assets/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda ) | [![](.gitbook/assets/instagram.png)](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/linkedin-1-.png)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/github.png)](https://github.com/carloseduardonit/) |
+| [![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda ) | [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/) |
 
 ## Quem Sou eu?
 
@@ -14,14 +14,17 @@ Seja bem vindo !!!
     * Scrum
   * Linguagem de Programação:
     * Java SE e EE,
-    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos)
+    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos target = "blank")
   * Banco de Dados:
     * MySQL.
 * Técnico em Manutenção e Suporte  de  Informática;
-  * Configuração e Manutençaõ de Computadores<img src =".gitbook/assets/computador.jpeg">
+  * Configuração e Manutençaõ de Computadores  <img src =".gitbook/assets/computador.jpeg">
+  * Implantação de Sistemas Cliente e Servidor
 * Técnico em Contabilidade;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
     * Simples Nacional
 * Auxiliar de Marcenaria;
 
+              |||
+              |:---|:----|
