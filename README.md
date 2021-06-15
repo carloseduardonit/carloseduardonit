@@ -7,7 +7,7 @@ Seja bem vindo !!!
 | ![](.gitbook/assets/twitter.png)  | ![](.gitbook/assets/instagram.png)  | ![](.gitbook/assets/linkedin-1-.png) [.](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | ![](.gitbook/assets/github.png)  |
 
 ## Quem Sou eu?
-[Blog do Da2k](https://blog.da2k.com.br "Clique e acesse agora!")
+
 
 * Analista e Desenvolvedor de Sistemas;
   * Metodologia:
