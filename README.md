@@ -4,7 +4,9 @@ Seja bem vindo !!!
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| ![[](.gitbook/assets/twitter.png)](https://twitter.com/Carlao_Me_Ajuda) | ![](.gitbook/assets/instagram.png) | ![](.gitbook/assets/linkedin-1-.png) [.](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | ![](.gitbook/assets/github.png) |
+| [![](.gitbook/assets/twitter.png)](https://twitter.com/Carlao_Me_Ajuda) | 
+[![](.gitbook/assets/instagram.png)](https://www.instagram.com/carlao.me.ajuda/) | 
+[![](.gitbook/assets/linkedin-1-.png)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | ![](.gitbook/assets/github.png) |
 
 ## Quem Sou eu?
 
@@ -18,5 +20,8 @@ Seja bem vindo !!!
   * Banco de Dados:
     * MySQL.
 * Técnico em Manutenção e Suporte  de  Informática;
-* Técnico em Contabilidade.
+* Técnico em Contabilidade;
+  * Abertura e Encerramento de Empresa
+  * Sistema tributaria
+* Auxiliar de Marcenaria;
 
