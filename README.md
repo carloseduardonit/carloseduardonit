@@ -14,7 +14,7 @@ Seja bem vindo !!!
     * Scrum
   * Linguagem de Programação:
     * Java,
-    * 
+    * JBDC 
   * Banco de Dados:
     * MySQL.
 * Técnico em Manutenção e Suporte  de  Informatica;
