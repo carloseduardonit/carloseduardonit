@@ -2,9 +2,9 @@
 
 Seja bem vindo !!!
 
-| #Twitter |  |  |  |
+| Twitter | Int | Linkedin |  |
 | :--- | :--- | :--- | :--- |
-| [![](.gitbook/assets/twitter.png)](https://twitter.com/Carlao_Me_Ajuda) | [![](.gitbook/assets/instagram.png)](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/linkedin-1-.png)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/github.png)](https://github.com/carloseduardonit/) |
+| [![](.gitbook/assets/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda ) | [![](.gitbook/assets/instagram.png)](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/linkedin-1-.png)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/github.png)](https://github.com/carloseduardonit/) |
 
 ## Quem Sou eu?
 
@@ -21,5 +21,7 @@ Seja bem vindo !!!
 * Técnico em Contabilidade;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
+        * Simples Nacional
+
 * Auxiliar de Marcenaria;
 
