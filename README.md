@@ -18,7 +18,7 @@ Seja bem vindo !!!
   * Banco de Dados:
     * MySQL.
 * Técnico em Manutenção e Suporte  de  Informática;
-  *|Configuração e Manutençaõ de Computadores|<img src =".gitbook/assets/computador.jpeg" witdh = "16">|
+  * Configuração e Manutençaõ de Computadores<img src =".gitbook/assets/computador.jpeg" witdh = "16">
 * Técnico em Contabilidade;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
