@@ -1,11 +1,10 @@
 # Carlos Eduardo dos Santos Figueiredo
 
 Seja bem vindo !!!
-<center>
+
 | Twitter | Instagran | Linkedin | Github  |
 | :--- | :--- | :--- | :--- |
-| [![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda ) | [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/) |
-</center>
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p> | [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/) |
 ## Quem Sou eu?
 
 * Analista e Desenvolvedor de Sistemas;
