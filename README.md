@@ -18,7 +18,7 @@
     * Scrum
   * Linguagem de Programação:
     * Java SE e EE,
-    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
+    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos_blank)
   * Banco de Dados:
     * MySQL.
 * <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
@@ -28,8 +28,9 @@
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
     * Simples Nacional
-* <b>Auxiliar de Marcenaria</b>;
+* <b>Auxiliar de Marcenaria</b>.
+  * Carlos Augusto Marcineiro do Rio do Ouro.
 ----------
 |Curriculo|Carta Profissional|
 |:---|:---|
-|<p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p>|<img src =".gitbook/assets/Diversos/pdf.png">|
+|<a href =".gitbook/doc/curriculo.pdf" target = "_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p></a>|<a href =".gitbook/doc/carta.pdf" target ="_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p></a>|
