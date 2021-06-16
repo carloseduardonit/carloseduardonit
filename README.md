@@ -12,7 +12,7 @@ Email para Contato: <carlostecnico@mail.com>
 
 ## Quem Sou eu?
 
-## �?rea de Atuação:
+## Area de Atuação:
 * <b>Analista e Desenvolvedor de Sistemas</b>;
   * Metodologia:
     * Clear Codes,
