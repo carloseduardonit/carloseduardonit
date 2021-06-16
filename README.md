@@ -6,6 +6,9 @@ Seja bem vindo !!!
 | :--- | :--- | :--- | :--- | :---|:---|
 | <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )| [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |1|2|
 </p>
+
+-------------
+
 ## Quem Sou eu?
 
 * Analista e Desenvolvedor de Sistemas;
@@ -25,7 +28,7 @@ Seja bem vindo !!!
   * Sistema tributaria
     * Simples Nacional
 * Auxiliar de Marcenaria;
-
+----------
 |Curriculo|Carta Profissional|
 |:---|:---|
 |<p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p>|<img src =".gitbook/assets/Diversos/pdf.png">|
