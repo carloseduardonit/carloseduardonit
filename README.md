@@ -26,6 +26,6 @@ Seja bem vindo !!!
     * Simples Nacional
 * Auxiliar de Marcenaria;
 
-              |Curriculo|Carta Profissional|
-              |:---|:----|
-              |<img src ="">|<img src ="">|
+ |Curriculo|Carta Profissional|
+              |:---|:---|
+              |<img src =".gitbook/assets/Diversos/pdf.png">|<img src =".gitbook/assets/Diversos/pdf.png">|
