@@ -12,14 +12,14 @@ Email para Contato: <carlostecnico@mail.com>
 
 ## Quem Sou eu?
 
-## Área de Atuação:
+## �?rea de Atuação:
 * <b>Analista e Desenvolvedor de Sistemas</b>;
   * Metodologia:
     * Clear Codes,
     * Scrum
   * Linguagem de Programação:
     * Java SE e EE,
-    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos"_blank")
+    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
   * Banco de Dados:
     * MySQL.
 * <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
