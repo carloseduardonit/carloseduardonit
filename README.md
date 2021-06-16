@@ -18,13 +18,14 @@ Email para Contato: <carlostecnico@mail.com>
     * Clear Codes,
     * Scrum
   * Linguagem de Programação:
-    * Java SE e EE,
+    * Java <img src = ".gitbook/assets/Diversos/Java3232.png" width = "16px"> SE e EE,
     *  [<p bcolor = "black">JBDC</p> ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
   * Banco de Dados:
     * MySQL.
 * <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
   * Configuração e Manutençaõ de Computadores  <img src =".gitbook/assets/computador.jpeg">
-  * Implantação de Sistemas Cliente e Servidor
+  * Implantação de Sistemas Cliente e 
+  <img src =""><>
 * <b>Técnico em Contabilidade</b>;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
