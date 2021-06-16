@@ -14,7 +14,7 @@ Seja bem vindo !!!
     * Scrum
   * Linguagem de Programação:
     * Java SE e EE,
-    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos target = "blank")
+    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos target = "_blank")
   * Banco de Dados:
     * MySQL.
 * Técnico em Manutenção e Suporte  de  Informática;
@@ -26,6 +26,6 @@ Seja bem vindo !!!
     * Simples Nacional
 * Auxiliar de Marcenaria;
 
- |Curriculo|Carta Profissional|
-              |:---|:---|
-              |<img src =".gitbook/assets/Diversos/pdf.png">|<img src =".gitbook/assets/Diversos/pdf.png">|
+|Curriculo|Carta Profissional|
+|:---|:---|
+|<img src =".gitbook/assets/Diversos/pdf.png">|<img src =".gitbook/assets/Diversos/pdf.png">|
