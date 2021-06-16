@@ -1,17 +1,18 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-Seja bem vindo !!!
-<p align= "center">
-| Twitter | Instagran | Linkedin | Github  |InforJob|1|
+<H4 align = "center"><b>Seja bem vindo, Mas estou em Manutenção!!!</b></h4>
+
+| Twitter | Instagran | Linkedin | Github  |InforJob|Vagas|
 | :--- | :--- | :--- | :--- | :---|:---|
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )| [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |1|
-</p>
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )| [![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/) | [![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |||
+
 
 -------------
 
 ## Quem Sou eu?
 
-* Analista e Desenvolvedor de Sistemas;
+## Área de Atuação:
+* <b>Analista e Desenvolvedor de Sistemas</b>;
   * Metodologia:
     * Clear Codes,
     * Scrum
@@ -20,14 +21,14 @@ Seja bem vindo !!!
     * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
   * Banco de Dados:
     * MySQL.
-* Técnico em Manutenção e Suporte  de  Informática;
+* <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
   * Configuração e Manutençaõ de Computadores  <img src =".gitbook/assets/computador.jpeg">
   * Implantação de Sistemas Cliente e Servidor
-* Técnico em Contabilidade;
+* <b>Técnico em Contabilidade</b>;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
     * Simples Nacional
-* Auxiliar de Marcenaria;
+* <b>Auxiliar de Marcenaria</b>;
 ----------
 |Curriculo|Carta Profissional|
 |:---|:---|
