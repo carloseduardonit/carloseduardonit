@@ -28,4 +28,4 @@ Seja bem vindo !!!
 
 |Curriculo|Carta Profissional|
 |:---|:---|
-|<img src =".gitbook/assets/Diversos/pdf.png">|<img src =".gitbook/assets/Diversos/pdf.png">|
+|< p align = center><img src =".gitbook/assets/Diversos/pdf.png"></p>|<img src =".gitbook/assets/Diversos/pdf.png">|
