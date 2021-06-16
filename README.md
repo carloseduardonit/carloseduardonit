@@ -19,7 +19,7 @@ Email para Contato: <carlostecnico@mail.com>
     * Scrum
   * Linguagem de Programação:
     * Java SE e EE,
-    * [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
+    *  [<p bcolor = "black">JBDC</p> ](https://github.com/carloseduardonit/ConectordoCarlos "_blank")
   * Banco de Dados:
     * MySQL.
 * <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
@@ -35,3 +35,7 @@ Email para Contato: <carlostecnico@mail.com>
 |Curriculo|Carta Profissional|
 |:---|:---|
 |<a href =".gitbook/doc/curriculo.pdf" target = "_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p></a>|<a href =".gitbook/doc/carta.pdf" target ="_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png"></p></a>|
+
+##### Estou Escrito:
+* HTML
+* Markdown
