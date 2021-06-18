@@ -6,9 +6,9 @@ Email para Contato: <carlostecnico@mail.com>
 
 <div  align = "center">
 
-| Twitter | Instagran | Linkedin | Github  |InforJob|Vagas|
+| Twitter | Instagran | Linkedin | Github  |InfoJobs|Vagas|
 | :--- | :--- | :--- | :--- | :---|:---|
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |||
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |<p align = "center"><a href ="" target="_blank"><img src=".gitbook/assets/RedeSocial/InfoJobs.png"></a></p>|<p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png"></a></p>|
 
 </div>
 
@@ -38,7 +38,7 @@ Email para Contato: <carlostecnico@mail.com>
   * Sistema tributaria
     * Simples Nacional
 * <b>Auxiliar de Marcenaria</b>.
-  * Carlos Augusto Marcineiro do Rio do Ouro.
+  * <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marcineiro do Rio do Ouro</a></font>
 ----------
 <div align = "center">
 
