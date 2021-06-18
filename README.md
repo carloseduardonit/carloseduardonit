@@ -27,10 +27,10 @@ Email para Contato: <carlostecnico@mail.com>
     * Clear Codes,
     * Scrum
   * Linguagem de Programação e de Marcação:
-    * HTML;
-    * CSS;
-    * Javascript
-    * Java <img src = ".gitbook/assets/Diversos/Java3232.png" width = "16px"> SE e EE;
+    * HTML <img src= ".gitbook/assets/Diversos/lingua/html5.png" width = 20px>;
+    * CSS <img src =".gitbook/assets/Diversos/lingua/css3.png" width = 13px>;
+    * Javascript <img src =".gitbook/assets/Diversos/lingua/Javascript.png" width = 16px>
+    * Java <img src = ".gitbook/assets/Diversos/lingua/Java3232.png" width = "16px"> SE e EE;
       *  [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos);
   * Banco de Dados:
     * MySQL.
@@ -47,9 +47,9 @@ Email para Contato: <carlostecnico@mail.com>
 ----------
 <div align = "center">
 
-|Curriculo|Carta Profissional|
-|:---|:---|
-|<a href ="https://drive.google.com/file/d/1HQ1wqTosYHGQHJKhGsdpX0U8uAJJWN8i/view?usp=sharing" target = "_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width = "100"></p></a>|<a href ="https://drive.google.com/file/d/0B7rfd6FhJo5_OWZ2R1RxQmhoTHc/view?usp=sharing&resourcekey=0-sIi-FmHQr9D5PaieG-dp9Q" target ="_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width ="100"></p></a>|
+|Curriculo|Carta Profissional|Lista de Curso|
+|:---|:---|:--- |
+|<a href ="https://drive.google.com/file/d/1HQ1wqTosYHGQHJKhGsdpX0U8uAJJWN8i/view?usp=sharing" target = "_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width = "100"></p></a>|<a href ="https://drive.google.com/file/d/0B7rfd6FhJo5_OWZ2R1RxQmhoTHc/view?usp=sharing&resourcekey=0-sIi-FmHQr9D5PaieG-dp9Q" target ="_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width ="100"></p></a>|<a href = "https://drive.google.com/file/d/1LOcZqmoaS5Wr7uPK7eR-0OoVP36uWblm/view" target ="_blank"><img src =".gitbook/assets/Diversos/pdf.png" width = 100><center></center></a>|
 </div>
 
 ##### <b>Estou sendo Escrito em</b>:
