@@ -6,9 +6,12 @@ Email para Contato: <carlostecnico@mail.com>
 
 <div  align = "center">
 
-| Twitter | Instagran | Linkedin | Github  |InfoJobs|Vagas|
+| <center>Twitter</center> | Instagran | Linkedin | Github  |<center>InfoJobs</center>|<center>Vagas</center>|
 | :--- | :--- | :--- | :--- | :---|:---|
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |<p align = "center"><a href ="" target="_blank"><img src=".gitbook/assets/RedeSocial/InfoJobs.png"></a></p>|<p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png"></a></p>|
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |<p align = "center"><a href ="" target="_blank"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p>|<p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p>|
+| || | ||
+|
+
 
 </div>
 
