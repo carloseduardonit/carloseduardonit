@@ -2,17 +2,19 @@
 <body bgcolor ="blue">
 <H4 align = "center"><b>Seja bem vindo, Mas estou em Manutenção!!!</b></h4>
 
-Email para Contato: <carlostecnico@mail.com>
+<h4 size = 16><b>Entre em contato por:</b></h4>  
+<a href =carlostecnico@mail.com><img src= ".gitbook/assets/Diversos/contato/email.png"></a><a href =""><img src =".gitbook/assets/Diversos/contato/zapp.png" ></a>  
+
 
 <div  align = "center">
 
 | <center>Twitter</center> | Instagran | Linkedin | Github  |<center>InfoJobs</center>|<center>Vagas</center>|
 | :--- | :--- | :--- | :--- | :---|:---|
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |<p align = "center"><a href ="" target="_blank"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p>|<p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p>|
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda )</p>|<p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p>| <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p>  |<p align = "center"><a href ="" target="_blank" alt = "Acesse a pagina"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p>|<p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p>|
 
-|v|  
+||  
 | :--- |   
-|1|
+||
 
 
 </div>
@@ -37,7 +39,7 @@ Email para Contato: <carlostecnico@mail.com>
 * <b>Técnico em Manutenção e Suporte  de  Informatica</b>;
   * Configuração e Manutençaõ de Computadores;  <img src =".gitbook/assets/computador.jpeg">
   * Implantação de Sistemas Cliente e Servidor; 
-  <img src =""><img src ="">
+  <img src =".gitbook/assets/Sistema/w98.png" width = 20px><img src =".gitbook/assets/Sistema/wxp.png" width = 20px><img src =".gitbook/assets/Sistema/wVista.png" width = 20px><img src =".gitbook/assets/Sistema/w7.png" width = 20px><img src =".gitbook/assets/Sistema/w8.png" width = 20px><img src =".gitbook/assets/Sistema/w10.png" width = 20px>
 * <b>Técnico em Contabilidade</b>;
   * Abertura e Encerramento de Empresa
   * Sistema tributaria
