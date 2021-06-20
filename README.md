@@ -3,7 +3,7 @@
 <H4 align = "center"><b>Seja bem vindo, Mas estou em Manutenção!!!</b></h4>
 
 <h4 size = 16><b>Entre em contato por:</b></h4>  
-<a href =carlostecnico@mail.com><img src= ".gitbook/assets/Diversos/contato/email.png" width = 20px> </a><a href ="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5521985745077&e=ATMtqtF0imWbFmZGZ4fl9QjthhNDx9jqRmy2g0zi2yfFHra2MxszNkWK9NQd0tPEVzb5eNlJWZxfV6RhlybH4w&s=1"><img src =".gitbook/assets/Diversos/contato/zapp.png " width = 30px></a>  
+<a href ="mailto:carlostecnico@mail.com?subject =vim atraves do seu Perfil do GitHub" target ="_blank"><img src= ".gitbook/assets/Diversos/contato/email.png" width = 20px> </a><a href ="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5521985745077&e=ATMtqtF0imWbFmZGZ4fl9QjthhNDx9jqRmy2g0zi2yfFHra2MxszNkWK9NQd0tPEVzb5eNlJWZxfV6RhlybH4w&s=1" target ="_blank"><img src =".gitbook/assets/Diversos/contato/zapp.png " width = 30px></a>  
 
 
 <div  align = "center">
