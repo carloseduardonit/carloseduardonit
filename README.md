@@ -23,6 +23,8 @@
 
 ## Quem Sou eu?
 
+<font align="justify" ><pre>   Eu sou o Carlos Eduardo formado em analise e desenvolvimento de sistema  pela univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade</pre></font>
+
 ## Area de Atuação:
 * <b>Analista e Desenvolvedor de Sistemas</b>;
   * Metodologia:
