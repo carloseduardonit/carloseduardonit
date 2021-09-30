@@ -4,9 +4,13 @@
 <H4 align = "center"><b><marquee>Seja bem vindo, Mas estou em Manutenção!!  <img src =.gitbook/assets/Diversos/rocklee.jpg  width = 20px></marquee></b></h4>
 <div id = "SetorGit">
  <div>
-  <a href="https://github.com/carloseduardonit">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count= 16 & theme = dracula" />
+<table>
+  <tr>
+    <td><a href="https://github.com/carloseduardonit">
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
+    <td><img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count= 16 & theme = dracula"/></td>
+  </tr>
+</table>
 </div>
 </div>
 
