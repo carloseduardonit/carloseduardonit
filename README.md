@@ -19,9 +19,9 @@
 
 <div  align = "center">
 
-| <center>Twitter</center>                                                                                              | Instagran                                                                                                                       | Linkedin                                                                                                                                                    | Github                                                                                                                | <center>InfoJobs</center>                                                                                                                      | <center>Vagas</center>                                                                                  |
-| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda)</p> | <p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p> | <p align = "center"><a href ="" target="_blank" alt = "Acesse a pagina"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p> | <p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p> |
+| <center>Twitter</center>                                                                                              | Instagran                                                                                                                       | Linkedin                                                                                                                                                    | Github                                                                                                                | <center>InfoJobs</center>                                                                                                                      | <center>Vagas</center>                                                                                  |Salesforce|
+| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------ |
+| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda)</p> | <p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p> | <p align = "center"><a href ="" target="_blank" alt = "Acesse a pagina"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p> | <p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p> |<p align = center><a href = ""><img src = ".gitbook/assets/Sistema/trailhead.png" width = 32></a></p>|
 
 |     |
 | :-- |
@@ -50,6 +50,7 @@
     - Javascript <img src =".gitbook/assets/Diversos/lingua/Javascript.png" width = 16px>
     - Java <img src = ".gitbook/assets/Diversos/lingua/Java3232.png" width = "16px"> SE e EE;
       - [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos);
+    - Salesforce <img src = ".gitbook/assets/Sistema/trailhead.png" width = 20px> [TrailHead](https://trailblazer.me/id/cdossantosfigueiredo) na  BRQ Digital Solutions; 
   - Banco de Dados:
     - MySQL.
 - <b>Técnico em Manutenção e Suporte de Informatica</b>;
@@ -57,9 +58,14 @@
   - Implantação de Sistemas Cliente e Servidor;
     <img src =".gitbook/assets/Sistema/w98.png" width = 20px><img src =".gitbook/assets/Sistema/wxp.png" width = 20px><img src =".gitbook/assets/Sistema/wVista.png" width = 20px><img src =".gitbook/assets/Sistema/w7.png" width = 20px><img src =".gitbook/assets/Sistema/w8.png" width = 20px><img src =".gitbook/assets/Sistema/w10.png" width = 20px>
 - <b>Técnico em Contabilidade</b>;
-  - Abertura e Encerramento de Empresa
-  - Sistema tributaria
-    - Simples Nacional
+  - Pessoa Juridica:
+    - Abertura e Encerramento de Empresa
+    - Sistema Tributaria:
+      - Simples Nacional;
+      - Simples Nacional MicroEmpreendedor Individual:
+        - Geração da Declaração Anual 
+  - Pessoa Fisica:
+    - Geração de Guia de Recolhimento Social(GPS - INSS);
 - <b>Auxiliar de Marcenaria</b>.
   - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marcineiro do Rio do Ouro</a></font>
 
