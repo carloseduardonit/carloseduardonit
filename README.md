@@ -34,8 +34,7 @@
 ## Quem Sou eu?
 
 <div class = quemsoueu>
-<span text-align="justify">Eu sou o Carlos Eduardo formado em analise e desenvolvimento de
- sistema  pela univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade.</span>
+<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitario em Ciencias Contabeis pela UFF(Universidade Federal Fluminense)  em  formado em Analise e Desenvolvimento de Sistema pela Univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade.</span>
 <div>
 
 ## Area de Atuação:
@@ -57,7 +56,7 @@
   - Configuração e Manutençaõ de Computadores; <img src =".gitbook/assets/computador.jpeg">
   - Implantação de Sistemas Cliente e Servidor;
     <img src =".gitbook/assets/Sistema/w98.png" width = 20px><img src =".gitbook/assets/Sistema/wxp.png" width = 20px><img src =".gitbook/assets/Sistema/wVista.png" width = 20px><img src =".gitbook/assets/Sistema/w7.png" width = 20px><img src =".gitbook/assets/Sistema/w8.png" width = 20px><img src =".gitbook/assets/Sistema/w10.png" width = 20px>
-- <b>Técnico em Contabilidade</b>;
+- <b>Técnico em Contabilidade e Universitario de Ciencias Contabeis</b>;
   - Pessoa Juridica:
     - Abertura e Encerramento de Empresa
     - Sistema Tributaria:
@@ -65,7 +64,8 @@
       - Simples Nacional MicroEmpreendedor Individual:
         - Geração da Declaração Anual 
   - Pessoa Fisica:
-    - Geração de Guia de Recolhimento Social(GPS - INSS);
+    - Geração de Guia de Recolhimento Social(GPS INSS);
+    - Declaração de Imposto Renda da Pessoa Fisica;
 - <b>Auxiliar de Marcenaria</b>.
   - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marcineiro do Rio do Ouro</a></font>
 
