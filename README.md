@@ -62,10 +62,15 @@
     - Sistema Tributaria:
       - Simples Nacional;
       - Simples Nacional MicroEmpreendedor Individual:
-        - Geração da Declaração Anual 
+        - Geração da Declaração Anual;
+        - Geração de Programa Gerador de DAS do Microempreendedor Individual(PGMEI)
   - Pessoa Fisica:
     - Geração de Guia de Recolhimento Social(GPS INSS);
-    - Declaração de Imposto Renda da Pessoa Fisica;
+    - Declaração de Imposto Renda da Pessoa Fisica(IRPF);
+    - Confecção de Processo Admistrativo INSS;
+    - Confecção de Processo Admistrativo de Licitação;
+      - Preenchementos de Formularios(Documentação da Habilitação);
+      - Solitação de Declaração Negativa
 - <b>Auxiliar de Marcenaria</b>.
   - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marceneiro do Rio do Ouro</a></font>
 
