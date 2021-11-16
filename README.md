@@ -34,7 +34,7 @@
 ## Quem Sou eu?
 
 <div class = quemsoueu>
-<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitario em Ciencias Contabeis pela UFF(Universidade Federal Fluminense)  em  formado em Analise e Desenvolvimento de Sistema pela Univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade.</span>
+<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitario em Ciencias Contabeis pela UFF(Universidade Federal Fluminense)  e formado em Analise e Desenvolvimento de Sistema pela Univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade.</span>
 <div>
 
 ## Area de Atuação:
@@ -67,7 +67,7 @@
     - Geração de Guia de Recolhimento Social(GPS INSS);
     - Declaração de Imposto Renda da Pessoa Fisica;
 - <b>Auxiliar de Marcenaria</b>.
-  - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marcineiro do Rio do Ouro</a></font>
+  - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marceneiro do Rio do Ouro</a></font>
 
 ---
 
