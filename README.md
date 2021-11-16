@@ -34,7 +34,7 @@
 ## Quem Sou eu?
 
 <div class = quemsoueu>
-<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitario em Ciencias Contabeis pela UFF(Universidade Federal Fluminense)  e formado em Analise e Desenvolvimento de Sistema pela Univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade.</span>
+<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitario em Ciencias Contabeis pela UFF(Universidade Federal Fluminense)  e formado em Analise e Desenvolvimento de Sistema pela Univesidade Estacio de Sá e dois cursos tecnico: o primeiro  é o de Suporte e Manutencão em Informatica e o segundo de Contabilidade pelo Senac RJ e muitos outros.</span>
 <div>
 
 ## Area de Atuação:
