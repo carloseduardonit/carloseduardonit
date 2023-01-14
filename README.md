@@ -52,6 +52,8 @@
     - Salesforce <img src = ".gitbook/assets/Sistema/trailhead.png" width = 20px> [TrailHead](https://trailblazer.me/id/cdossantosfigueiredo) na  BRQ Digital Solutions; 
   - Banco de Dados:
     - MySQL.
+  - Jira SoftWare
+    - JQL
 - <b>Técnico em Manutenção e Suporte de Informatica</b>;
   - Configuração e Manutençaõ de Computadores; <img src =".gitbook/assets/computador.jpeg">
   - Implantação de Sistemas Cliente e Servidor;
