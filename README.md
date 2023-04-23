@@ -1,8 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-<body bgcolor ="blue">  
-
-<marquee><H4 align = "center"><b>Seja bem vindo, Mas estou em  constante Manutenção!!  <img src =.gitbook/assets/Diversos/rocklee.jpg  width = 20px></b></h4></marquee>
+<H4 align = "center"><b>Seja bem vindo, Mas estou em  constante Manutenção!!  <img src =.gitbook/assets/Diversos/rocklee.jpg  width = 20px></b></h4>
 <div id = "SetorGit">
  <div>
 <table>
