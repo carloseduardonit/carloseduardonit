@@ -2,9 +2,6 @@
 
 <body bgcolor ="blue">  
 
-
-
-
 <marquee><H4 align = "center"><b>Seja bem vindo, Mas estou em  constante Manutenção!!  <img src =.gitbook/assets/Diversos/rocklee.jpg  width = 20px></b></h4></marquee>
 <div id = "SetorGit">
  <div>
@@ -19,7 +16,7 @@
 </div>
 
 <h4 size = 16><b>Entre em contato por:</b></h4>  
-<a href ="mailto:carlostecnico@mail.com?subject =vim atraves do seu Perfil do GitHub" target ="_blank"><img src= ".gitbook/assets/Diversos/contato/email.png" width = 20px> </a><a href ="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5521985745077&e=ATMtqtF0imWbFmZGZ4fl9QjthhNDx9jqRmy2g0zi2yfFHra2MxszNkWK9NQd0tPEVzb5eNlJWZxfV6RhlybH4w&s=1" target ="_blank"><img src =".gitbook/assets/Diversos/contato/zapp.png " width = 30px></a>
+<a href ="mailto:carlostecnico@mail.com?subject  vim através do seu Perfil do GitHub" target ="_blank"><img src= ".gitbook/assets/Diversos/contato/email.png" width = 20px> </a><a href ="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5521985745077&e=ATMtqtF0imWbFmZGZ4fl9QjthhNDx9jqRmy2g0zi2yfFHra2MxszNkWK9NQd0tPEVzb5eNlJWZxfV6RhlybH4w&s=1" target ="_blank"><img src =".gitbook/assets/Diversos/contato/zapp.png " width = 30px></a>
 
 <div  align = "center">
 
@@ -41,7 +38,7 @@
 <span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela UFF(Universidade Federal Fluminense)  e formado em Analise e Desenvolvimento de Sistema pela Universidade Estácio de Sá e dois cursos técnico: o primeiro  é o de Suporte e Manutenção em Informática e o segundo de Contabilidade pelo Senac RJ e muitos outros.</span>
 <div>
 
-## Area de Atuação:
+## Area de Atuação
 
 - <b>Analista e Desenvolvedor de Sistemas</b>;
   - Metodologia:
@@ -52,8 +49,8 @@
     - CSS <img src =".gitbook/assets/Diversos/lingua/css3.png" width = 13px>;
     - Javascript <img src =".gitbook/assets/Diversos/lingua/Javascript.png" width = 16px>
     - Java <img src = ".gitbook/assets/Diversos/lingua/Java3232.png" width = "16px"> SE e EE;
-      - [JBDC ](https://github.com/carloseduardonit/ConectordoCarlos);
-    - Salesforce <img src = ".gitbook/assets/Sistema/trailhead.png" width = 20px> [TrailHead](https://trailblazer.me/id/cdossantosfigueiredo) na  BRQ Digital Solutions; 
+      - [JBDC](https://github.com/carloseduardonit/ConectordoCarlos);
+    - Salesforce <img src = ".gitbook/assets/Sistema/trailhead.png" width = 20px> [TrailHead](https://trailblazer.me/id/cdossantosfigueiredo) na  BRQ Digital Solutions;
   - Banco de Dados:
     - MySQL.
   - Jira SoftWare
@@ -90,8 +87,9 @@
 
 </div>
 
-##### <b>Estou sendo Escrito em</b>:
+##### <b>Estou sendo Escrito em</b>
 
 - HTML
 - Markdown
+
 </body >
