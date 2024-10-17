@@ -39,10 +39,17 @@
 #### 💻 Analista e Desenvolvedor de Sistemas
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
-  - Alocado na Ouro Verde/Unidas
-  - Alocado na Nisan Argetina
-  - Alocado na Auriverde
-  - Alocado na Corteg
+  - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
+    > - Analise da documentação funcional
+    > - Escrita cenario em modelo Step-by-Step
+    > - Teste manuais no CRM Salesforce, ERP
+  - Alocado na Nisan Argetina por 2 meses
+    > - Mapeamento de processso e de campos
+    > - 
+  - Alocado na Auriverde por 4 meses
+    > -
+  - Alocado na Corteg por 4 meses
+    > -
 - **Metodologias**: Clear Codes, Scrum
 - **Linguagens de Programação e de Marcação**:
   - HTML <img src=".gitbook/assets/Diversos/lingua/html5.png" width="20px" />
