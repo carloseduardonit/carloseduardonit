@@ -1,0 +1,6 @@
+<a href="mailto:carlostecnico@mail.com?subject=Vim%20através%20do%20seu%20Perfil%20do%20GitHub" target="_blank">
+  <img src=".gitbook/assets/Diversos/contato/email.png" width="20px" />
+</a>
+<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077" target="_blank">
+  <img src=".gitbook/assets/Diversos/contato/zapp.png" width="30px" />
+</a>
