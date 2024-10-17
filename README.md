@@ -1,6 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-## Seja bem-vindo, mas estou em constante manutenção! <img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" />
+## Seja bem-vindo<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" />
 
 <div id="SetorGit">
   <table>
@@ -77,5 +77,5 @@ Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contáb
 
 ## 📝 Estou sendo escrito em
 
-- HTML
-- Markdown
+> ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
