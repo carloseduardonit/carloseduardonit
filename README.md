@@ -32,11 +32,11 @@
 
 ## 🙋‍♂️ Quem sou eu?
 
-<p>Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
+<p style="text-align: justify;">Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
 </p>
-<p>Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
+<p style="text-align: justify;">Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
 </p>
-<p>Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
+<p style="text-align: justify;">Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
 </p>
 
 ---
