@@ -1,94 +1,77 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-#### Seja bem vindo, Mas estou em  constante Manutenção!!  <img src =.gitbook/assets/Diversos/rocklee.jpg  width = 20px>
+## Seja bem-vindo, mas estou em constante manutenção! ![Rock Lee](.gitbook/assets/Diversos/rocklee.jpg)
 
-<div id = "SetorGit">
- <div>
-<table>
-  <tr>
-    <td><a href="https://github.com/carloseduardonit">
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
-    <td><img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count= 16 & theme = dracula"/></td>
-  </tr>
-</table>
+<div id="SetorGit">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/carloseduardonit">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" />
+      </td>
+    </tr>
+  </table>
 </div>
-</div>
 
-<h4 size = 16><b>Entre em contato por:</b></h4>  
-<a href ="mailto:carlostecnico@mail.com?subject  vim através do seu Perfil do GitHub" target ="_blank"><img src= ".gitbook/assets/Diversos/contato/email.png" width = 20px> </a><a href ="https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3F1%3Dpt_BR%26phone%3D5521985745077&e=ATMtqtF0imWbFmZGZ4fl9QjthhNDx9jqRmy2g0zi2yfFHra2MxszNkWK9NQd0tPEVzb5eNlJWZxfV6RhlybH4w&s=1" target ="_blank"><img src =".gitbook/assets/Diversos/contato/zapp.png " width = 30px></a>
+### 📬 Entre em contato por:
+[![Email](.gitbook/assets/Diversos/contato/email.png)](mailto:carlostecnico@mail.com?subject=Vim%20através%20do%20seu%20Perfil%20do%20GitHub)
+[![WhatsApp](.gitbook/assets/Diversos/contato/zapp.png)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077)
 
-<div  align = "center">
-
-| <center>Twitter</center>                                                                                              | Instagram                                                                                                                       | LinkedIn                                                                                                                                                    | Github                                                                                                                | <center>InfoJobs</center>                                                                                                                      | <center>Vagas</center>                                                                                  |Salesforce|
-| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------ |
-| <p align ="center">[![](.gitbook/assets/RedeSocial/twitter.png "Acessa ai")](https://twitter.com/Carlao_Me_Ajuda)</p> | <p align = "center">[![](.gitbook/assets/RedeSocial/instagram.png "Acessa ai")](https://www.instagram.com/carlao.me.ajuda/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/linkedin-1-.png "Acessa ai")](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/)</p> | <p align ="center">[![](.gitbook/assets/RedeSocial/github.png "Acessa ai")](https://github.com/carloseduardonit/)</p> | <p align = "center"><a href ="" target="_blank" alt = "Acesse a pagina"><img src=".gitbook/assets/RedeSocial/InfoJobs.png" width = 32></a></p> | <p align ="center"><a href = ""><img src= ".gitbook/assets/RedeSocial/VagasCom.png" width = 32></a></p> |<p align = center><a href = ""><img src = ".gitbook/assets/Sistema/trailhead.png" width = 32></a></p>|
-
-|     |
-| :-- |
-|     |
-
-</div>
+| [![Twitter](.gitbook/assets/RedeSocial/twitter.png)](https://twitter.com/Carlao_Me_Ajuda) | [![Instagram](.gitbook/assets/RedeSocial/instagram.png)](https://www.instagram.com/carlao.me.ajuda/) | [![LinkedIn](.gitbook/assets/RedeSocial/linkedin-1-.png)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | [![GitHub](.gitbook/assets/RedeSocial/github.png)](https://github.com/carloseduardonit/) | ![InfoJobs](.gitbook/assets/RedeSocial/InfoJobs.png) | ![Vagas](.gitbook/assets/RedeSocial/VagasCom.png) | ![Trailhead](.gitbook/assets/Sistema/trailhead.png) |
+| :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 
 ---
 
-## Quem Sou eu?
+## 🙋‍♂️ Quem sou eu?
 
-<div class = quemsoueu>
-<span text-align="justify">Eu sou o Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela UFF(Universidade Federal Fluminense)  e formado em Analise e Desenvolvimento de Sistema pela Universidade Estácio de Sá e dois cursos técnico: o primeiro  é o de Suporte e Manutenção em Informática e o segundo de Contabilidade pelo Senac RJ e muitos outros.</span>
-<div>
-
-## Area de Atuação
-
-- <b>Analista e Desenvolvedor de Sistemas</b>;
-  - Metodologia:
-    - Clear Codes,
-    - Scrum
-  - Linguagem de Programação e de Marcação:
-    - HTML <img src= ".gitbook/assets/Diversos/lingua/html5.png" width = 20px>;
-    - CSS <img src =".gitbook/assets/Diversos/lingua/css3.png" width = 13px>;
-    - Javascript <img src =".gitbook/assets/Diversos/lingua/Javascript.png" width = 16px>
-    - Java <img src = ".gitbook/assets/Diversos/lingua/Java3232.png" width = "16px"> SE e EE;
-      - [JBDC](https://github.com/carloseduardonit/ConectordoCarlos);
-    - Salesforce <img src = ".gitbook/assets/Sistema/trailhead.png" width = 20px> [TrailHead](https://trailblazer.me/id/cdossantosfigueiredo) na  BRQ Digital Solutions;
-  - Banco de Dados:
-    - MySQL.
-  - Jira SoftWare
-    - JQL
-- <b>Técnico em Manutenção e Suporte de Informática</b>;
-  - Configuração e Manutenção de Computadores; <img src =".gitbook/assets/computador.jpeg">
-  - Implantação de Sistemas Cliente e Servidor;
-    <img src =".gitbook/assets/Sistema/w98.png" width = 20px><img src =".gitbook/assets/Sistema/wxp.png" width = 20px><img src =".gitbook/assets/Sistema/wVista.png" width = 20px><img src =".gitbook/assets/Sistema/w7.png" width = 20px><img src =".gitbook/assets/Sistema/w8.png" width = 20px><img src =".gitbook/assets/Sistema/w10.png" width = 20px>
-- <b>Técnico em Contabilidade e Universitário de Ciências Contábeis</b>;
-  - Pessoa Jurídica:
-    - Abertura e Encerramento de Empresa
-    - Sistema Tributaria:
-      - Simples Nacional;
-      - Simples Nacional MicroEmpreendedor Individual:
-        - Geração da Declaração Anual;
-        - Geração de Programa Gerador de DAS do Microempreendedor Individual(PGMEI)
-  - Pessoa Física:
-    - Geração de Guia de Recolhimento Social(GPS INSS);
-    - Declaração de Imposto Renda da Pessoa Física(IRPF);
-    - Confecção de Processo Administrativo INSS;
-    - Confecção de Processo Administrativo de Licitação;
-      - Preenchimentos de Formulários(Documentação da Habilitação);
-      - Solicitação de Declaração Negativa
-- <b>Auxiliar de Marcenaria</b>.
-  - <font color = "black" ><a href ="https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/" target ="_blank">Carlos Augusto Marceneiro do Rio do Ouro</a></font>
+Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela UFF (Universidade Federal Fluminense) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, além de possuir dois cursos técnicos: Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ, entre muitos outros.
 
 ---
 
-<div align = "center">
+## 💼 Área de Atuação
 
-|<p align = "center">Currículo</p>|<p align ="center">Carta Profissional</p>| Lista de Curso|
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href ="https://drive.google.com/file/d/1HQ1wqTosYHGQHJKhGsdpX0U8uAJJWN8i/view?usp=sharing" target = "_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width = "100"></p></a> | <a href ="https://drive.google.com/file/d/0B7rfd6FhJo5_OWZ2R1RxQmhoTHc/view?usp=sharing&resourcekey=0-sIi-FmHQr9D5PaieG-dp9Q" target ="_blank"><p align = "center"><img src =".gitbook/assets/Diversos/pdf.png" width ="100"></p></a> | <a href = "https://drive.google.com/file/d/1LOcZqmoaS5Wr7uPK7eR-0OoVP36uWblm/view" target ="_blank"><img src =".gitbook/assets/Diversos/pdf.png" width = 100><center></center></a> |
+- **💻 Analista e Desenvolvedor de Sistemas**
+  - **Metodologias**: Clear Codes, Scrum
+  - **Linguagens de Programação e de Marcação**:
+    - HTML ![HTML](.gitbook/assets/Diversos/lingua/html5.png)
+    - CSS ![CSS](.gitbook/assets/Diversos/lingua/css3.png)
+    - JavaScript ![JavaScript](.gitbook/assets/Diversos/lingua/Javascript.png)
+    - Java (SE e EE) ![Java](.gitbook/assets/Diversos/lingua/Java3232.png)
+    - Salesforce [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) ![Trailhead](.gitbook/assets/Sistema/trailhead.png)
+  - **Banco de Dados**: MySQL
+  - **Ferramentas**: Jira Software (com JQL) ![Jira](.gitbook/assets/Diversos/lingua/jira.png)
 
-</div>
+- **🛠️ Técnico em Manutenção e Suporte de Informática**
+  - Configuração e Manutenção de Computadores ![Computador](.gitbook/assets/computador.jpeg)
+  - Implantação de Sistemas Cliente e Servidor
+    - ![Windows 98](.gitbook/assets/Sistema/w98.png) ![Windows XP](.gitbook/assets/Sistema/wxp.png) ![Windows Vista](.gitbook/assets/Sistema/wVista.png) ![Windows 7](.gitbook/assets/Sistema/w7.png) ![Windows 8](.gitbook/assets/Sistema/w8.png) ![Windows 10](.gitbook/assets/Sistema/w10.png)
 
-##### <b>Estou sendo Escrito em</b>
+- **📊 Técnico em Contabilidade e Universitário de Ciências Contábeis**
+  - **Pessoa Jurídica**:
+    - Abertura e Encerramento de Empresas
+    - Sistema Tributário: Simples Nacional, Microempreendedor Individual (MEI)
+  - **Pessoa Física**:
+    - Geração de Guia de Recolhimento Social (GPS INSS)
+    - Declaração de Imposto de Renda da Pessoa Física (IRPF)
+    - Confecção de Processos Administrativos
+
+- **🔨 Auxiliar de Marcenaria**
+  - Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
+
+---
+
+## 📄 Documentos
+
+| [Currículo](https://drive.google.com/file/d/1HQ1wqTosYHGQHJKhGsdpX0U8uAJJWN8i/view?usp=sharing) | [Carta Profissional](https://drive.google.com/file/d/0B7rfd6FhJo5_OWZ2R1RxQmhoTHc/view?usp=sharing&resourcekey=0-sIi-FmHQr9D5PaieG-dp9Q) | [Lista de Cursos](https://drive.google.com/file/d/1LOcZqmoaS5Wr7uPK7eR-0OoVP36uWblm/view) |
+| :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+
+---
+
+## 📝 Estou sendo escrito em
 
 - HTML
 - Markdown
-
-</body >
