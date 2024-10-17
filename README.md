@@ -25,16 +25,19 @@
   <img src=".gitbook/assets/Diversos/contato/zapp.png" width="30px" />
 </a>
 
-| <img src=".gitbook/assets/RedeSocial/twitter.png" width="20px" /> [Twitter](https://twitter.com/Carlao_Me_Ajuda) | <img src=".gitbook/assets/RedeSocial/instagram.png" width="20px" /> [Instagram](https://www.instagram.com/carlao.me.ajuda/) | <img src=".gitbook/assets/RedeSocial/linkedin-1-.png" width="20px" /> [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo-76128837/) | <img src=".gitbook/assets/RedeSocial/github.png" width="20px" /> [GitHub](https://github.com/carloseduardonit/) |
+| <img src=".gitbook/assets/RedeSocial/twitter.png" width="20px" /> [Twitter](https://twitter.com/Carlao_Me_Ajuda) | <img src=".gitbook/assets/RedeSocial/instagram.png" width="20px" /> [Instagram](https://www.instagram.com/carlao.me.ajuda/) | <img src=".gitbook/assets/RedeSocial/linkedin-1-.png" width="20px" /> [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/) | <img src=".gitbook/assets/RedeSocial/github.png" width="20px" /> [GitHub](https://github.com/carloseduardonit/) |
 | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
 
 ---
 
 ## 🙋‍♂️ Quem sou eu?
 
-Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
-Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
-Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
+<p>Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
+</p>
+<p>Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
+</p>
+<p>Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
+</p>
 
 ---
 
@@ -81,3 +84,11 @@ Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## Material de Suporte
+
+- [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
+- [Badges](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+- [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+- [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
