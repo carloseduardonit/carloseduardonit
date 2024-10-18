@@ -47,7 +47,7 @@
     > - Analise da documentação funcional
     > - Escrita cenario em modelo Step-by-Step
     > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
-    > - Liderei time de QA em duas semanas do teste do projeto
+    > - Liderei time de QA em 1 mês do teste do projeto
   - Alocado na Nisan Argetina por 2 meses
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
@@ -64,6 +64,11 @@
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **Salesforce** [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" />
+
+- **Ferramentas de testes:** (Em estudo)
+
+> ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
 - **Banco de Dados:**
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - **Ferramentas**: Jira Software (com JQL)
