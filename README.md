@@ -17,12 +17,19 @@
   </table>
 </div>
 
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Seja bem-vindo(a)");
+    }
+}
+
 ---
 <details>
 
 <summary>
 
-## 📬 Entre em contato pelo
+## 📬 Entre em contato pelo :point_left:
 
 </summary>
 
@@ -36,7 +43,7 @@
 
 <summary>
 
-## 🙋‍♂️ Quem sou eu?
+## 🙋‍♂️ Quem sou eu? :point_left:
 
 </summary>
 
@@ -53,7 +60,7 @@
 
 <summary>
 
-## 💼 Área de Atuação
+## 💼 Área de Atuação :point_left:
 
 </summary>
 
@@ -125,7 +132,7 @@
 
   <summary>
 
-## 📄 Documentos
+## 📄 Documentos :point_left:
 
   </summary>
 
@@ -142,7 +149,7 @@ documentação em atualização
 
 <summary> 
 
-## 📝 Estou sendo escrito em
+## 📝 Estou sendo escrito em :point_left:
  
 </summary>
 
@@ -156,7 +163,7 @@ documentação em atualização
 
 <summary>
 
-## :books: Material de Suporte
+## :books: Material de Suporte :point_left:
 
 </summary>
 
