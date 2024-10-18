@@ -1,6 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-## Seja bem-vindo(a) <img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" />
+## :man_technologist: Seja bem-vindo(a) <img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" />
 
 <div id="SetorGit">
   <table>
@@ -17,9 +17,13 @@
   </table>
 </div>
 
-### 📬 Entre em contato por:
+---
 
-> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/)
+### 📬 Entre em contato pelo
+
+> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/)
+
+---
 
 ## 🙋‍♂️ Quem sou eu?
 
@@ -45,25 +49,25 @@
     > - Teste manuais no CRM Salesforce, ERP
   - Alocado na Nisan Argetina por 2 meses
     > - Mapeamento de processso e de campos
-    > - 
-  - Alocado na Auriverde por 4 meses
-    > -
-  - Alocado na Corteg por 4 meses
-    > -
+    > - Teste manuais no CRM Salesforce
+  - Alocado na Auriverde por 3 meses
+    > - Teste manuais no CRM Salesforce e Mobile
+  - Alocado na Corteg por 3 meses
+    > - Teste manuais no CRM Salesforce e Mobile
 - **Metodologias**: Clear Codes, Scrum
-- **Linguagens de Programação, de Estilo e de Marcação**:
-  - HTML <img src=".gitbook/assets/Diversos/lingua/html5.png" width="20px" />
-  - CSS <img src=".gitbook/assets/Diversos/lingua/css3.png" width="20px" />
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - Java (SE e EE) <img src=".gitbook/assets/Diversos/lingua/Java3232.png" width="20px" />
+- **Linguagens de Programação:**
+> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Linguagens  de Estilo e de Marcação:**
+
+> ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **Salesforce** [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" />
-- **Banco de Dados**: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- **Banco de Dados:**
+> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - **Ferramentas**: Jira Software (com JQL)
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 - Configuração e Manutenção de Computadores <img src=".gitbook/assets/computador.jpeg" width="20px" />
-- Implantação de Sistemas Cliente e Servidor
-  - <img src=".gitbook/assets/Sistema/w98.png" width="20px" /> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" /> <img src=".gitbook/assets/Sistema/w7.png" width="20px" /> <img src=".gitbook/assets/Sistema/w8.png" width="20px" /> <img src=".gitbook/assets/Sistema/w10.png" width="20px" />
+- Implantação de Sistemas Cliente e Servidor  <img src=".gitbook/assets/Sistema/w98.png" width="20px" /> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" /> <img src=".gitbook/assets/Sistema/w7.png" width="20px" /> <img src=".gitbook/assets/Sistema/w8.png" width="20px" /> <img src=".gitbook/assets/Sistema/w10.png" width="20px" />
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
 
@@ -77,7 +81,7 @@
 
 #### 🔨 Auxiliar de Marcenaria
 
-  - Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
+- Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
 
 ---
 
@@ -90,10 +94,11 @@
 
 ## 📝 Estou sendo escrito em
 
-> ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Material de Suporte
+---
+
+## :books: Material de Suporte
 
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
 - [Badges](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)

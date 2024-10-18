@@ -4,3 +4,6 @@
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077" target="_blank">
   <img src=".gitbook/assets/Diversos/contato/zapp.png" width="30px" />
 </a>
+
+https://clicked-salesforce.slack.com/team/U07ELBF03LK
+U07ELBF03LK
