@@ -56,6 +56,7 @@
 ## 💼 Área de Atuação
 
 </summary>
+
 ###
 
 #### 💻 Analista e Desenvolvedor de Sistemas
@@ -120,12 +121,20 @@
 </details>
 
 ---
+<details>
+
+  <summary>
 
 ## 📄 Documentos
+
+  </summary>
 
 | [Currículo](https://drive.google.com/file/d/1nH3H30uOsj7UztF1alDF7l6oRtjUWPM1/view?usp=sharing) | [Carta Profissional](https://drive.google.com/file/d/1nIgc44slu7C62rtxCaJLr9Jp2NKP5YcF/view?usp=sharing) | [Lista de Cursos](https://drive.google.com/file/d/1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp/view?usp=sharing) |
 | :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
 
+documentação em atualização
+
+</details>
 ---
 
 ## 📝 Estou sendo escrito em
