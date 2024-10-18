@@ -11,7 +11,7 @@
         </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" />
       </td>
     </tr>
   </table>
@@ -44,20 +44,22 @@
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
-
     > - Analise da documentação funcional
     > - Escrita cenario em modelo Step-by-Step
-    > - Teste manuais no CRM Salesforce, ERP
+    > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
+    > - Liderei time de QA em duas semanas do teste do projeto
   - Alocado na Nisan Argetina por 2 meses
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
   - Alocado na Auriverde por 3 meses
-    > - Teste manuais no CRM Salesforce e Mobile
+    > - Teste manuais no CRM Salesforce e Mobile ()
   - Alocado na Corteg por 3 meses
     > - Teste manuais no CRM Salesforce e Mobile
 - **Metodologias**: Clear Codes, Scrum
 - **Linguagens de Programação:**
+
 > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - **Linguagens  de Estilo e de Marcação:**
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,6 +69,7 @@
 - **Ferramentas**: Jira Software (com JQL)
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
+
 - Configuração e Manutenção de Computadores <img src=".gitbook/assets/computador.jpeg" width="20px" />
 - Implantação de Sistemas Cliente e Servidor  <img src=".gitbook/assets/Sistema/w98.png" width="20px" /> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" /> <img src=".gitbook/assets/Sistema/w7.png" width="20px" /> <img src=".gitbook/assets/Sistema/w8.png" width="20px" /> <img src=".gitbook/assets/Sistema/w10.png" width="20px" />
 
@@ -102,7 +105,9 @@
 ## :books: Material de Suporte
 
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
-- [Badges](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+- [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+- [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
 - [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+
