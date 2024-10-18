@@ -154,11 +154,11 @@ documentação em atualização
 
 <details>
 
-  <summary>
-    
+<summary>
+
 ## :books: Material de Suporte
 
-  </summary>
+</summary>
 
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
 - [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
