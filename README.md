@@ -44,6 +44,7 @@
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
+
     > - Analise da documentação funcional
     > - Escrita cenario em modelo Step-by-Step
     > - Teste manuais no CRM Salesforce, ERP
