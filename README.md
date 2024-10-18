@@ -47,7 +47,7 @@
     > - Analise da documentação funcional
     > - Escrita cenario em modelo Step-by-Step
     > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
-    > - Liderei time de QA em 1 mês do teste do projeto
+    > - Liderei time de QA em 1 mês nos testes do projeto
   - Alocado na Nisan Argetina por 2 meses
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
