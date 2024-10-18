@@ -52,9 +52,9 @@
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
   - Alocado na Auriverde por 3 meses
-    > - Teste manuais no CRM Salesforce e Mobile ()
+    > - Teste manuais no CRM Salesforce e Mobile (browserstack)
   - Alocado na Corteg por 3 meses
-    > - Teste manuais no CRM Salesforce e Mobile
+    > - Teste manuais no CRM Salesforce e Mobile (browserstack)
 - **Metodologias**: Clear Codes, Scrum
 - **Linguagens de Programação:**
 
