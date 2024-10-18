@@ -140,7 +140,7 @@ documentação em atualização
 
 <details>
 
-  <summary> 
+<summary> 
 
 ## 📝 Estou sendo escrito em
  
@@ -155,9 +155,11 @@ documentação em atualização
 <details>
 
   <summary>
+    
 ## :books: Material de Suporte
 
   </summary>
+
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
 - [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 - [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
