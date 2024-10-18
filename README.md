@@ -45,15 +45,20 @@
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
     > - Analise da documentação funcional
-    > - Escrita cenario em modelo Step-by-Step
+    > - Escrita dos cenarios no modelo Step-by-Step
     > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
+    > - Manutenção no codigo Apex
     > - Liderei time de QA em 1 mês nos testes do projeto
   - Alocado na Nisan Argetina por 2 meses
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
   - Alocado na Auriverde por 3 meses
+    > - Utilizando a tecnica BDD
+    > - Escrita dos cenarios no modelo gherkin e Steps by Steps
     > - Teste manuais no CRM Salesforce e Mobile (browserstack)
   - Alocado na Corteg por 3 meses
+    > - Utilizando a tecnica BDD
+    > - Escrita dos cenarios no modelo gherkin e Steps by Steps
     > - Teste manuais no CRM Salesforce e Mobile (browserstack)
 - **Metodologias**: Clear Codes, Scrum
 - **Linguagens de Programação:**
@@ -70,7 +75,9 @@
 > ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 - **Banco de Dados:**
+
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 - **Ferramentas**: Jira Software (com JQL)
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
@@ -115,4 +122,3 @@
 - [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
-
