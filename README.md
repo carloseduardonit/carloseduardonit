@@ -23,6 +23,7 @@ public class HelloWorld {
         System.out.println("Seja bem-vindo(a)");
     }
 }
+```
 
 ---
 <details>
