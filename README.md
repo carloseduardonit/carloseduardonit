@@ -72,21 +72,22 @@ public class HelloWorld {
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
     > - Analise da documentação funcional
-    > - Escrita dos cenarios no modelo Step-by-Step
+    > - Escrita dos cenarios e dos Bugs no modelo Step-by-Step
+    > - Importação dos cenarios o Excel para Zephyr e mapeamento dos erros na importação
     > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
     > - Manutenção no codigo Apex
     > - Liderei time de QA em 1 mês nos testes do projeto
-  - Alocado na Nisan Argetina por 2 meses
+  - Alocado na Nisan Argentina por 2 meses
     > - Mapeamento de processso e de campos
     > - Teste manuais no CRM Salesforce
   - Alocado na Auriverde por 3 meses
     > - Utilizando a tecnica BDD
-    > - Escrita dos cenarios no modelo gherkin e Steps by Steps
-    > - Teste manuais no CRM Salesforce e Mobile (browserstack)
+    > - Escrita dos cenarios e dos Bugs no modelo gherkin e Steps by Steps
+    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack
   - Alocado na Corteg por 3 meses
     > - Utilizando a tecnica BDD
-    > - Escrita dos cenarios no modelo gherkin e Steps by Steps
-    > - Teste manuais no CRM Salesforce e Mobile (browserstack)
+    > - Escrita dos cenarios e dos Bugs no modelo gherkin e Steps by Steps
+    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack
 - **Metodologias**: Clear Codes, Scrum
 - **Linguagens de Programação:**
 
@@ -105,7 +106,7 @@ public class HelloWorld {
 
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Ferramentas**: Jira Software (com JQL)
+- **Ferramentas**: Jira Software (com JQL) e  Zephyr
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
@@ -142,7 +143,6 @@ public class HelloWorld {
 
 | [Currículo](https://drive.google.com/file/d/1nH3H30uOsj7UztF1alDF7l6oRtjUWPM1/view?usp=sharing) | [Carta Profissional](https://drive.google.com/file/d/1nIgc44slu7C62rtxCaJLr9Jp2NKP5YcF/view?usp=sharing) | [Lista de Cursos](https://drive.google.com/file/d/1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp/view?usp=sharing) |
 | :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
-
 
 
 </details>
