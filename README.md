@@ -1,17 +1,17 @@
 # Carlos Eduardo dos Santos Figueiredo
 
-## :man_technologist: Seja bem-vindo(a) <img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" />
+## :man_technologist: Seja bem-vindo(a) <img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
 
 <div id="SetorGit">
   <table>
     <tr>
       <td>
         <a href="https://github.com/carloseduardonit">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt = "Commits"/>
         </a>
       </td>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" alt = "linguagem" />
       </td>
     </tr>
   </table>
@@ -26,7 +26,8 @@ public class HelloWorld {
 ```
 
 > [!IMPORTANT]
->  - Clique nos Titulos abaixo :point_down:.
+>
+> - Clique nos Titulos abaixo :point_down:
 
 ---
 <details>
@@ -51,11 +52,11 @@ public class HelloWorld {
 
 </summary>
 
-<p style="text-align: justify;">  Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
+<p style="text-align: justify">  Eu sou Carlos Eduardo dos Santos Figueiredo, universitário em Ciências Contábeis pela Universidade Federal Fluminense (UFF) e formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, concluí cursos técnicos em Suporte e Manutenção em Informática e Contabilidade pelo Senac RJ.
 </p>
-<p style="text-align: justify;">  Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
+<p style="text-align: justify">  Eu atuei como QA manual com foco em Salesforce, onde fui responsável por garantir a qualidade das soluções desenvolvidas dentro do ecossistema Salesforce. Minhas atividades incluíram a criação de cenários de teste, execução de testes manuais e validação de funcionalidades para assegurar que os requisitos do sistema fossem atendidos conforme esperado. Trabalhei na integração de sistemas e na implementação de soluções robustas, utilizando tanto objetos padrão quanto personalizados no Salesforce, sempre mantendo uma abordagem orientada à qualidade e à melhoria contínua.
 </p>
-<p style="text-align: justify;">  Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
+<p style="text-align: justify">  Meu objetivo é continuar aprimorando minhas habilidades técnicas em Salesforce, com foco em testes automatizados, desenvolvimento de soluções e administração da plataforma, para oferecer soluções mais eficientes e eficazes que atendam às necessidades dos usuários e das empresas.
 </p>
 </details>
 
@@ -73,25 +74,32 @@ public class HelloWorld {
 #### 💻 Analista e Desenvolvedor de Sistemas
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
-  - Alocado na Ouro Verde/Unidas por 1 ano e 6 meses
-    > - Analise da documentação funcional
-    > - Escrita dos cenarios e dos Bugs no modelo Step-by-Step
-    > - Importação dos cenarios o Excel para Zephyr e mapeamento dos erros na importação
-    > - Teste manuais no CRM Salesforce e ERP Microsoft Dynamics AX
-    > - Manutenção no codigo Apex
-    > - Liderei time de QA em 1 mês nos testes do projeto
-  - Alocado na Nisan Argentina por 2 meses
-    > - Mapeamento de processso e de campos
-    > - Teste manuais no CRM Salesforce
-  - Alocado na Auriverde por 3 meses
-    > - Utilizando a tecnica BDD
-    > - Escrita dos cenarios e dos Bugs no modelo gherkin e Steps by Steps
-    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack
-  - Alocado na Corteg por 3 meses
-    > - Utilizando a tecnica BDD
-    > - Escrita dos cenarios e dos Bugs no modelo gherkin e Steps by Steps
-    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack
-- **Metodologias**: Clear Codes, Scrum
+  - **Alocado na Ouro Verde/Unidas por 1 ano e 6 meses**
+    > - Utilizava as metodologias *los 3 amigos*, *Scrum* e *BDD* - 
+    > - Realizava a análise das documentações funcionais;
+    > - Executava a escrita dos cenários e dos Bugs no modelo Step-by-Step;
+    > - Realizava a Importação dos cenários do Excel para Zephyr e mapeamento dos erros na importação;
+    > - Executava o gerenciamento de cards através do Jira e do Zephyr;
+    > - Executava a confecção de Relatórios e Dashboards utilizando o JQL;
+    > - Executava os testes manuais no CRM Salesforce, na API Pricing e no ERP Microsoft Dynamics AX;
+    > - Realizei a manutenção em parte do código Apex;
+    > - Disponibilizei o treinamento de Salesforce para equipe de QAs;
+    > - Liderei o time de QA em + ou - 1 mês nos testes do projeto.
+  - **Alocado na Nisan Argentina por 2 meses** *"Cobertura de Férias dos QA pleno e sênior"*
+    > - Realizei os mapeamentos de processos do cliente e de campos;
+    > - Executei as escritas dos scripts de testes no modelo Step-by-Step;
+    > - Executei os testes manuais no CRM Salesforce.
+  - **Alocado na Auriverde por 3 meses**
+    > - Utilizava a metodologia Scrum e BDD;
+    > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e - 
+    > - Utilizava o gerenciamento de backlog pelo Trello;
+    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack.
+  - **Alocado na Corteg por 3 meses**
+    > - Utilizava a metodologia Scrum e BDD;
+    > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e - 
+    > -  
+    > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
+- **Metodologias estudadas**: Clear Codes, Scrum, BDD E TDD
 - **Linguagens de Programação:**
 
 > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -99,32 +107,41 @@ public class HelloWorld {
 - **Linguagens  de Estilo e de Marcação:**
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Salesforce** [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" />
+
+- **Salesforce** [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
 
 - **Ferramentas de testes:** (Em estudo)
 
-> ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+> ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 - **Banco de Dados:**
 
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Ferramentas**: Jira Software (com JQL) e  Zephyr
+- **Ferramentas de Gerenciamento de Projeto e  Teste**: Trello, Jira Software (com JQL), Zephyr e TFS
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
-- Configuração e Manutenção de Computadores <img src=".gitbook/assets/computador.jpeg" width="20px" />
-- Implantação de Sistemas Cliente e Servidor  <img src=".gitbook/assets/Sistema/w98.png" width="20px" /> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" /> <img src=".gitbook/assets/Sistema/w7.png" width="20px" /> <img src=".gitbook/assets/Sistema/w8.png" width="20px" /> <img src=".gitbook/assets/Sistema/w10.png" width="20px" />
+- Configuração e Manutenção de Computadores: <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
+- Implantação de Sistemas Cliente e Servidor: <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
 
 - **Pessoa Jurídica**:
   - Abertura e Encerramento de Empresas
+    - Inscrição de Municipal e Estadual
   - Sistema Tributário: Simples Nacional, Microempreendedor Individual (MEI)
+  - Confecção de Processos Administrativos:
+    - Confecção do Parcelamento do Simples Nacional e SIMEI
+    - Apoio na Extinção/Suspensão das Obrigações legais e acessórias.
+
 - **Pessoa Física**:
   - Geração de Guia de Recolhimento Social (GPS INSS)
   - Declaração de Imposto de Renda da Pessoa Física (IRPF)
-  - Confecção de Processos Administrativos
+  - Confecção de Processos Administrativos:
+    - INSS
+    - DETRAN
+    -
 
 #### 🔨 Auxiliar de Marcenaria
 
@@ -133,6 +150,7 @@ public class HelloWorld {
 </details>
 
 ---
+
 <details>
 
   <summary>
@@ -141,24 +159,23 @@ public class HelloWorld {
 
   </summary>
 
-
-
 | [Currículo](https://drive.google.com/file/d/1nH3H30uOsj7UztF1alDF7l6oRtjUWPM1/view?usp=sharing) | [Carta Profissional](https://drive.google.com/file/d/1nIgc44slu7C62rtxCaJLr9Jp2NKP5YcF/view?usp=sharing) | [Lista de Cursos](https://drive.google.com/file/d/1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp/view?usp=sharing) |
 | :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
 
 </details>
 
 >[!WARNING]
+>
 > - Documentações em atualização
 
 ---
 
 <details>
 
-<summary> 
+<summary>
 
 ## 📝 Estou sendo escrito em :point_left:
- 
+
 </summary>
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -1,0 +1,29 @@
+{
+  "dadoPessoal": {
+    "Nome": "Carlos Eduardo dos Santos Figueiredo",
+    "Data de Nascimento": "18/09/1987",
+    "Sexo": "M",
+    "": ""
+  },
+  "contatoTelefonico": {
+    "telefone": "(21) 98574-5077",
+    "whatsapp": "https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077",
+    "telegran": "https://t.me/Carlaol",
+    "discord": "https://discord.com/channels/@carloseduardonit/"
+  },
+  "email": "mailto:carlostecnicowl@gmail.com",
+  "redeProfissional": {
+    "github": "https://github.com/carloseduardonit",
+    "trailhead": "https://www.salesforce.com/trailblazer/cdossantosfigueiredo",
+    "linkedIn": "https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/"
+  },
+  "redePessoal": {
+    "instagram": "https://www.instagram.com/carlao.me.ajuda/",
+    "X": "https://x.com/Carlao_Me_Ajuda"
+  },
+  "palavraChave":{
+    "metodologia": [ "Scrum", "TDD", "BDD"],
+    "linguagemProgramação":[],
+    "linguagemTeste":[""]
+  }
+}
