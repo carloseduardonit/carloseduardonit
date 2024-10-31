@@ -2,6 +2,7 @@
 
 ## :man_technologist: Seja bem-vindo(a)<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
 
+[![Assista ao vídeo](https://img.youtube.com/vi/nXV5BUojkYg/0.jpg)](https://www.youtube.com/watch?v=nXV5BUojkYg)
 
 <div id="SetorGit">
   <table>
