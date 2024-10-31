@@ -1,8 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo
 
 ## :man_technologist: Seja bem-vindo(a)<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
-<div>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nXV5BUojkYg?si=QSBTafpoyOfZbt8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <div id="SetorGit">
