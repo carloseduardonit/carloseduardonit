@@ -91,12 +91,12 @@ public class HelloWorld {
     > - Executei os testes manuais no CRM Salesforce.
   - **Alocado na Auriverde por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
-    > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e - 
+    > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e Gherkin;
     > - Utilizava o gerenciamento de backlog pelo Trello;
     > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack.
   - **Alocado na Corteg por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
-    > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e - 
+    > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e Gherkin;
     > -  
     > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
 - **Metodologias estudadas**: Clear Codes, Scrum, BDD E TDD
@@ -166,7 +166,7 @@ public class HelloWorld {
 
 >[!WARNING]
 >
-> - Documentações em atualização
+> - Documentações atualizada em 19/10/2024
 
 ---
 
