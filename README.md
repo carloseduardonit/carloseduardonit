@@ -75,7 +75,7 @@ public class HelloWorld {
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - **Alocado na Ouro Verde/Unidas por 1 ano e 6 meses**
-    > - Utilizava as metodologias *los 3 amigos*, *Scrum* e *BDD* - 
+    > - Utilizava as metodologias *los 3 amigos*, *Scrum*, *BDD* e *BDT*
     > - Realizava a análise das documentações funcionais;
     > - Executava a escrita dos cenários e dos Bugs no modelo Step-by-Step;
     > - Realizava a Importação dos cenários do Excel para Zephyr e mapeamento dos erros na importação;
@@ -98,7 +98,7 @@ public class HelloWorld {
     > - Utilizava a metodologia Scrum e BDD;
     > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e Gherkin;
     > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
-- **Metodologias estudadas**: Clear Codes, Scrum, BDD E TDD
+- **Metodologias estudadas**: Clear Codes, Scrum, BDD, BDT E TDD.
 - **Linguagens de Programação:**
 
 > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -123,7 +123,7 @@ public class HelloWorld {
 
 - Configuração e Manutenção de Computadores: <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
 - Implantação de Sistemas Cliente e Servidor: <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
-
+> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAABn0lEQVR4nGNgGJqgvp5JdGJwtujE4HJ0rLWvpljjcF05Cj5UX6Ryop4Pp3nCk4I0xCaG/MeGNQ/Wv9E8VP8fHWscqA/CaaB4X7A2qQZqHa4LRTGEJ99ck6vY3BiE+eucQkW6/f7DsGhfIGkGchWYufEUWfzHg//wNLpeBGGpteknpNalXUTHMuszAxCuK7IMhWmWqnL5z1ds9V+w1Oa/WIUjwtAGVzCWWJPyVnJN6n90LLE6LRSrgdMPr/qfsaLl/8wjq/+Hzyuj3ECZatf/l5/d/r/x0n5Ub5NroFK91//TD6/833z5IIqB4u5aYCw0NfCN0LSg/xh4SmAIVgPXnt/z329G3v85R9f9j1lQhWnglMC3WA2cFojbyyAaPVJIMpC7yNwVb7IpMPsj7qZ1EYSFJ/gfF54UeBEdi/X4+aEm7CJLDXjCTjYOFQ3U/Q/D4j7a/yU8tMBYLdXujXqa/X8sOBR31nPX1IYZgI7JMlDSTUeDVAM10uxwFw4M9QxMEu5aRRLumh3oWC3Vrlk91b4DBafZ16jkmuEuvgYVAAD2/c77kPQZkgAAAABJRU5ErkJggg==" alt="microsoft-excel-2019--v1">
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
 
 - **Pessoa Jurídica**:
