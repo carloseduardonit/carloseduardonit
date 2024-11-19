@@ -85,7 +85,7 @@ public class HelloWorld {
     > - Realizei a manutenção em parte do código Apex;
     > - Disponibilizei o treinamento de Salesforce para equipe de QAs;
     > - Liderei o time de QA em + ou - 1 mês nos testes do projeto.
-  - **Alocado na Nisan Argentina por 2 meses** *"Cobertura de Férias dos QA pleno e sênior"*
+  - **Alocado na Nissan Argentina por 2 meses** <img width="20" height="20" src="https://img.icons8.com/color/20/nissan.png" alt="nissan"/> *"Cobertura de Férias dos QA pleno e sênior"*
     > - Realizei os mapeamentos de processos do cliente e de campos;
     > - Executei as escritas dos scripts de testes no modelo Step-by-Step;
     > - Executei os testes manuais no CRM Salesforce.
