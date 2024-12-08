@@ -124,7 +124,6 @@ public class HelloWorld {
 - Configuração e Manutenção de Computadores: <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
 - Implantação de Sistemas Cliente e Servidor: <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wxp.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
 
-
 > <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="20" height="20" src="https://img.icons8.com/color/20/selenium-test-automation.png" alt="selenium-test-automation"/>
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
@@ -194,11 +193,34 @@ public class HelloWorld {
 
 </summary>
 
+- [Sites Icons8](https://icons8.com.br/)
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
 - [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 - [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
 - [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+
+</details>
+
+<details>
+  <summary>
+    site para fazer de teste  E2E
+  </summary>
+  - https://www.saucedemo.com/
+  - https://todomvc.com/
+  - https://practice.automationtesting.in/
+  - https://demo.automationtesting.in/Register.html
+  - https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html
+  - https://page-objects-anonimos.vercel.app/
+  - https://cucumber-soh-na-salada.vercel.app
+</details>
+
+<details>
+  <summary>
+    site para fazer teste de API
+  </summary>
+
+  - 
 
 </details>
