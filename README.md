@@ -27,8 +27,8 @@ public class HelloWorld {
 
 > [!IMPORTANT]
 >
-> - Clique nos Titulos abaixo :point_down:
-<img src="/.gitbook/assets/demostracao.gif" alt="Demostração de com fazer">
+> - Clique nos Titulos abaixo para ver os paragrafos conforme a demostração: :point_down:
+> <img src="/.gitbook/assets/demostracao.gif" alt="Demostração de com fazer">
 
 ---
 <details>
