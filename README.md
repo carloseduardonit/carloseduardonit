@@ -28,6 +28,7 @@ public class HelloWorld {
 > [!IMPORTANT]
 >
 > - Clique nos Titulos abaixo :point_down:
+<img src="/.gitbook/assets/demostracao.gif" alt="Demostração de com fazer">
 
 ---
 <details>
@@ -207,13 +208,15 @@ public class HelloWorld {
   <summary>
     site para fazer de teste  E2E
   </summary>
-  - https://www.saucedemo.com/
-  - https://todomvc.com/
-  - https://practice.automationtesting.in/
-  - https://demo.automationtesting.in/Register.html
+
+- https://www.saucedemo.com/
+- https://todomvc.com/
+- https://practice.automationtesting.in/
+- https://demo.automationtesting.in/Register.html
   - https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html
   - https://page-objects-anonimos.vercel.app/
   - https://cucumber-soh-na-salada.vercel.app
+
 </details>
 
 <details>
