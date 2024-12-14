@@ -206,24 +206,28 @@ public class HelloWorld {
 
 <details>
   <summary>
-    site para fazer de teste  E2E
+
+## Sites que vou realizar o treinamento de teste E2E em 2025
+
   </summary>
 
-- https://www.saucedemo.com/
-- https://todomvc.com/
-- https://practice.automationtesting.in/
-- https://demo.automationtesting.in/Register.html
-  - https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html
-  - https://page-objects-anonimos.vercel.app/
-  - https://cucumber-soh-na-salada.vercel.app
+- [ ] [saucedemo](https://www.saucedemo.com/)
+- [ ] [todomvc](https://todomvc.com/)
+- [ ] [practice.automationtesting](https://practice.automationtesting.in/)
+- [ ] [demo.automationtesting.in](https://demo.automationtesting.in/Register.html)
+  - [ ] https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html
+  - [ ] https://page-objects-anonimos.vercel.app/
+  - [ ] https://cucumber-soh-na-salada.vercel.app
 
 </details>
 
 <details>
-  <summary>
-    site para fazer teste de API
+  <summary> 
+
+## Sites que vou realizar o treinamento de teste de API em 2025
+
   </summary>
 
-  - 
+- [ ] 2
 
 </details>
