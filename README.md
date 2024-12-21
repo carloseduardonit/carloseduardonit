@@ -129,7 +129,7 @@ public class HelloWorld {
 
 - **Banco de Dados:**
 
-> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
 - **Ferramentas de Gerenciamento de Projeto e  Teste:**  
 
@@ -252,3 +252,7 @@ public class HelloWorld {
 </details>
 
 ---
+https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white
+https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white
+https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=
+https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white
