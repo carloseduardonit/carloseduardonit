@@ -1,5 +1,7 @@
 # Carlos Eduardo dos Santos Figueiredo
 
+𝐸𝓈𝚝𝐞 𝕡𝕖𝗿𝙛𝒊𝓵 𝚎𝕤𝔱𝓪́ 𝗲𝔪 𝒜𝔱𝚞𝐚𝖑𝒊𝑧𝒂𝙘̧𝒶̃ℴ
+
 ## :man_technologist: Seja bem-vindo(a)<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
 
 <div id="SetorGit">
