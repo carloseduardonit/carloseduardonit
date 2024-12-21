@@ -127,7 +127,9 @@ public class HelloWorld {
 
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Ferramentas de Gerenciamento de Projeto e  Teste**: Trello, Jira Software (com JQL), Zephyr e TFS
+- **Ferramentas de Gerenciamento de Projeto e  Teste:**  
+
+> ![Jira Software(com JQL)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Zephyr](/) ![](/)
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
@@ -246,5 +248,3 @@ public class HelloWorld {
 </details>
 
 ---
-
-
