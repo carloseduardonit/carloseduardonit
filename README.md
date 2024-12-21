@@ -117,9 +117,11 @@ public class HelloWorld {
 
 - **Ferramentas de Testes de Performace e de Stress** (Em estudo)
 
-> https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white
+> ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
 
-- ****
+- **Ferramentas de Teste  de API**
+
+>
 
 - **Banco de Dados:**
 
