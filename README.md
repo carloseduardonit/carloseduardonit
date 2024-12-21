@@ -140,11 +140,11 @@ public class HelloWorld {
 - Configuração e Manutenção de Computadores: 
 > <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
 
-- Implantação de Sistemas Cliente e Servidor:
+- Implantação e Utilização de Sistemas Cliente e Servidor:
 
 > <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wXP.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
 
-> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="20" height="20" src="https://img.icons8.com/color/20/selenium-test-automation.png" alt="selenium-test-automation"/>
+> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
 
@@ -256,7 +256,7 @@ public class HelloWorld {
 </details>
 
 ---
-https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white
-https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white
-https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=
-https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white
+![XML](https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
