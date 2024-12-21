@@ -119,9 +119,9 @@ public class HelloWorld {
 
 > ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
 
-- **Ferramentas de Teste  de API**
+- **Ferramentas de Teste  de API:**  (Em estudo)
 
->
+> ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 - **Banco de Dados:**
 
