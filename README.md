@@ -108,7 +108,7 @@ public class HelloWorld {
 
 > ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Salesforce** [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
+- **CRM:**  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
 
 - **Ferramentas de testes E2E:** (Em estudo)
 
@@ -129,7 +129,7 @@ public class HelloWorld {
 
 - **Ferramentas de Gerenciamento de Projeto e  Teste:**  
 
-> ![Jira Software(com JQL)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Zephyr](/) ![](/)
+> ![Jira Software(com JQL)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) Zephyr e TFS
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
@@ -193,16 +193,16 @@ public class HelloWorld {
 - [ ] [todomvc](https://todomvc.com/)
 - [ ] [practice.automationtesting](https://practice.automationtesting.in/)
 - [ ] [demo.automationtesting.in](https://demo.automationtesting.in/Register.html)
-  - [ ] https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html
-  - [ ] https://page-objects-anonimos.vercel.app/
-  - [ ] https://cucumber-soh-na-salada.vercel.app
+  - [ ] [cypress-playground](https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html)
+  - [ ] [page-objects-anonimos](https://page-objects-anonimos.vercel.app/ )
+  - [ ] [cucumber-soh-na-salada](https://cucumber-soh-na-salada.vercel.app )
 
 </details>
 
 ---
 
 <details>
-  <summary> 
+  <summary>
 
 ## :globe_with_meridians: Sites que vou realizar o treinamento de teste de API em 2025 :point_left:
 
