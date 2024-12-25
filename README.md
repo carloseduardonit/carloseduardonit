@@ -218,7 +218,8 @@ public class HelloWorld {
 
   </summary>
 
-- [ ] 2
+- [ ] [API do Restful-Booker](https://restful-booker.herokuapp.com)
+- [ ]
 
 </details>
 
