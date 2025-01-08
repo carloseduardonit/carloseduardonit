@@ -248,8 +248,7 @@ public class HelloWorld {
 </summary>
 
 - [Sites Icons8](https://icons8.com.br/)
-
-- ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+- Markdown
   - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
   - [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
   - [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
