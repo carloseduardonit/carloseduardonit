@@ -7,3 +7,16 @@
 ## Ciencias Contabeis
 
 - [como passar na UFF](https://chatgpt.com/share/678301ae-0c28-8011-83d6-212e8d04d0dc)
+
+```mermaid
+graph ;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+pie
+"Dogs" : 386
+"Cats" : 85.9
+"Rats" : 15
