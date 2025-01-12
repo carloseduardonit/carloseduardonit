@@ -139,13 +139,13 @@ public class HelloWorld {
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
-- Configuração e Manutenção de Computadores: 
+- Configuração e Manutenção de Computadores:
+
 > <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
 
 - Implantação e Utilização de Sistemas Cliente e Servidor:
 
 > <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wXP.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
-
 > <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
@@ -249,6 +249,7 @@ public class HelloWorld {
 
 - [Sites Icons8](https://icons8.com.br/)
 - Markdown
+  - [YouTube Video](https://www.youtube.com/watch?v=TsaLQAetPLU&t)
   - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
   - [Badges Basico](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
   - [Badges Avançado](https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges)
