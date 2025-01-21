@@ -1,5 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo
 
+
 𝐸𝓈𝚝𝐞 𝕡𝕖𝗿𝙛𝒊𝓵 𝚎𝕤𝔱𝓪́ 𝗲𝔪 𝒜𝔱𝚞𝐚𝖑𝒊𝑧𝒂𝙘̧𝒶̃ℴ
 
 ## :man_technologist: Seja bem-vindo(a)<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
@@ -115,11 +116,13 @@ public class HelloWorld {
 - **CRM:**
 
 > ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
+> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-experience-sbu/923740afc25850c35ffbd44a85079d53_badge.png">
 
 - **Ferramentas de testes E2E:** (Em estudo)
 
 > ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 - **Ferramentas de Testes de Performace e de Stress** (Em estudo)
 
