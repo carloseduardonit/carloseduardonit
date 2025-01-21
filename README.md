@@ -116,7 +116,7 @@ public class HelloWorld {
 - **CRM:**
 
 > ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
-> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-experience-sbu/923740afc25850c35ffbd44a85079d53_badge.png">
+> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-experience-sbu/923740afc25850c35ffbd44a85079d53_badge.png" width="20px" alt = "Superbadge"/>
 
 - **Ferramentas de testes E2E:** (Em estudo)
 
