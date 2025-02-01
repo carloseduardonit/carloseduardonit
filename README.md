@@ -263,12 +263,12 @@ public class HelloWorld {
   - [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
   - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
-
-  - [text](https://github.com/mermaid-js/mermaid)
+  - [mermaid](https://github.com/mermaid-js/mermaid)
 
 </details>
 
 ---
+
 ![XML](https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=XML&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
