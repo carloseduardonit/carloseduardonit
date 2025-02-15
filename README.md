@@ -225,7 +225,7 @@ public class HelloWorld {
   </summary>
 
 - [ ] [API do Restful-Booker](https://restful-booker.herokuapp.com)
-- [ ]
+- [ ] [Design Patterns](https://refactoring.guru/pt-br/design-patterns/builder/java/example#lang-features)
 
 </details>
 
