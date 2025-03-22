@@ -120,7 +120,6 @@ public class HelloWorld {
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-authentication-settings/da69b7644d137bd8cf5239499bd80d26_badge.png" width="25px"/>
 
 
-
 - **Ferramentas de testes E2E:** (Em estudo)
 
 > ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -170,7 +169,7 @@ public class HelloWorld {
   - Confecção de Processos Administrativos:
     - INSS
     - DETRAN
-    -
+    - Receita Federal
 
 #### 🔨 Auxiliar de Marcenaria
 
