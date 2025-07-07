@@ -120,7 +120,6 @@ public class HelloWorld {
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-authentication-settings/da69b7644d137bd8cf5239499bd80d26_badge.png" width="25px"/>
 
 
-
 - **Ferramentas de testes E2E:** (Em estudo)
 
 > ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -170,7 +169,7 @@ public class HelloWorld {
   - Confecção de Processos Administrativos:
     - INSS
     - DETRAN
-    -
+    - Receita Federal
 
 #### 🔨 Auxiliar de Marcenaria
 
@@ -212,7 +211,7 @@ public class HelloWorld {
   - [ ] [cypress-playground](https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html)
   - [ ] [page-objects-anonimos](https://page-objects-anonimos.vercel.app/ )
   - [ ] [cucumber-soh-na-salada](https://cucumber-soh-na-salada.vercel.app )
-
+- [ ] [testautomationu](https://testautomationu.applitools.com/pact-contract-tests/)
 </details>
 
 ---
@@ -225,7 +224,7 @@ public class HelloWorld {
   </summary>
 
 - [ ] [API do Restful-Booker](https://restful-booker.herokuapp.com)
-- [ ]
+- [ ] [Design Patterns](https://refactoring.guru/pt-br/design-patterns/builder/java/example#lang-features)
 
 </details>
 
