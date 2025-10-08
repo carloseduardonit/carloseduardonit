@@ -115,7 +115,6 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 
 ### ✅ Resposta
 
-|Nº|Empresa||
+|Nº|Empresa|
+|----|-----|
 |1️⃣|```text BRQ Digital Solutions ``` |
-
-
