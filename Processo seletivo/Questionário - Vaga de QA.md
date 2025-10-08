@@ -115,6 +115,6 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 
 ### ✅ Resposta
 
-|Nº|Empresa|Cargo|
-|----|-----|-----|
-|1️⃣| BRQ Digital Solutions|Analista de Sistema|
+| Nº  | Empresa                | Cargo                | Início   | Fim      |
+|-----|------------------------|----------------------|----------|----------|
+| 1️⃣  | BRQ Digital Solutions | Analista de Sistema  | 08/2021  | 09/2023  |
