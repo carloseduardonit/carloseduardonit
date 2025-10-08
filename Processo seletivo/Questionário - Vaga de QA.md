@@ -110,3 +110,13 @@ Estou aberto a negociações justas, levando em conta as responsabilidades do ca
 Meu superpoder é a capacidade de aprender rápido e me adaptar a diferentes contextos, unindo o lado técnico da TI com a visão analítica da contabilidade.
 Isso me permite resolver problemas de forma criativa e garantir qualidade em tudo o que entrego.
 ```
+
+## 1️⃣3️⃣ Quais as suas experiencias?
+
+### ✅ Resposta
+
+#### 1️⃣ Empresa:
+
+```text
+BRQ Digital Solutions
+```
