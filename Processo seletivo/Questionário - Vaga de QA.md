@@ -19,6 +19,7 @@ Gostei da forma como a Branddi alia inovação, design e propósito, valorizando
 Sim. Atuei como Analista de Qualidade de Software (QA) em projetos nacionais e internacionais, com foco em testes manuais, funcionais e exploratórios, além de validações em Salesforce, ERP Microsoft Dynamics AX e APIs.
 Utilizei ferramentas como Jira, Zephyr, BrowserStack e Postman, aplicando metodologias ágeis como Scrum, BDD e BDT.
 Também realizei manutenções pontuais em código Apex, liderei temporariamente o time de QA e ministrei treinamentos internos sobre Salesforce.
+```
 
 ## 3️⃣ Por qual motivo você é a pessoa ideal para essa posição?
 
@@ -115,6 +116,6 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 
 ### ✅ Resposta
 
-| Nº  | Empresa                | Cargo                | Início   | Fim      |
-|-----|------------------------|----------------------|----------|----------|
-| 1️⃣  | BRQ Digital Solutions | Analista de Sistema  | 08/2021  | 09/2023  |
+| Nº   | Empresa                | Cargo                 | Início   | Fim      | Site                        |
+|------|------------------------|-----------------------|----------|----------|-----------------------------|
+| 1️⃣   | BRQ Digital Solutions | Analista de Sistema   | 08/2021  | 09/2023  | [brq.com](https://www.brq.com/) |
