@@ -80,9 +80,9 @@ Estou me preparando para aplicar esses conhecimentos em um ambiente corporativo 
 Possuo cerca de 2 anos de experiência prática como QA Manual, atuando com testes funcionais, exploratórios e regressivos em ambientes Salesforce, ERP Microsoft Dynamics AX e integrações via API.
 ```
 
-### 9️⃣ Você possui ensino superior completo ou em andamento?
+## 9️⃣ Você possui ensino superior completo ou em andamento?
 
-✅ Resposta:
+### ✅ Resposta
 
 ```text
 Sim. Sou graduado em Análise e Desenvolvimento de Sistemas (Universidade Estácio de Sá) e universitário em Ciências Contábeis pela UFF (Universidade Federal Fluminense).
