@@ -3,10 +3,17 @@
 <details>
   <summary>
 
-## Lista  de Site  cadastro
+## Lista  de Site cadastro e atualizado o currículo
   </summary>
 
-- [99jobs](https://99jobs.com/)
+- [X][99jobs](https://99jobs.com/)
+- [X][Solides](https://perfil.vagas.solides.com.br/)
+- [X][Linkedin](https://www.linkedin.com/)
+- [ ][Indeed](https://www.indeed.com.br/)
+- [ ][Glassdoor](https://www.glassdoor.com.br/index.htm)
+- [ ][Vagas.com](https://www.vagas.com.br/)
+- [ ][Catho](https://www.catho.com.br/)
+- [ ][Infojobs](https://www.infojobs.com.br/)
 </details>
 
 <details>
