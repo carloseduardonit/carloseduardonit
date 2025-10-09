@@ -1,14 +1,12 @@
 # Questionário - Vaga de QA
 
 <details>
-    <summary>
+  <summary>
 
 ## Lista  de Site  cadastro
-    
-    </summary>
+  </summary>
 
 - [99jobs](https://99jobs.com/)
-
 </details>
 
 ## 1️⃣ Você chegou a entrar no site da Branddi? Se sim, o que você entendeu?
