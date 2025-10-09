@@ -25,8 +25,9 @@ Gostei da forma como a Branddi alia inovação, design e propósito, valorizando
 
 <details>
   <summary>
+
 ## 2️⃣ Você possui experiência comprovada como QA Engineer ou em uma função similar?
-    </summary>
+  </summary>
 
 ### ✅ Resposta
 
@@ -37,8 +38,11 @@ Utilizei ferramentas como Jira, Zephyr, BrowserStack e Postman, aplicando metodo
 Também realizei manutenções pontuais em código Apex, liderei temporariamente o time de QA e ministrei treinamentos internos sobre Salesforce.
 ```
 </details>
+<details>
+  <summary>
 
 ## 3️⃣ Por qual motivo você é a pessoa ideal para essa posição?
+  </summary>
 
 ### ✅ Resposta
 
@@ -47,6 +51,7 @@ Sou um profissional comprometido, detalhista e multidisciplinar, com base sólid
 Tenho facilidade em entender regras complexas, garantir qualidade e promover a melhoria contínua.
 Além disso, possuo certificações Salesforce, venho estudando automação com Robot Framework e Cypress, e busco aplicar todo esse conhecimento para entregar valor real à empresa, com eficiência e qualidade.
 ```
+</details>
 
 ## 4️⃣ Você possui experiência em automação de testes usando Robot Framework e Python?
 
