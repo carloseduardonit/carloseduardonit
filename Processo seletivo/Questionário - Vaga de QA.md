@@ -9,8 +9,11 @@
 - [99jobs](https://99jobs.com/)
 </details>
 
-## 1️⃣ Você chegou a entrar no site da Branddi? Se sim, o que você entendeu?
+<details>
+  <summary>
 
+## 1️⃣ Você chegou a entrar no site da Branddi? Se sim, o que você entendeu?
+  </summary>
 ### ✅ Resposta
 
 ```text
@@ -18,8 +21,12 @@
 Sim, acessei o site da Branddi. Entendi que é uma empresa especializada em comunicação, marketing digital e branding, com foco em criar conexões autênticas entre marcas e pessoas por meio de estratégias criativas e tecnológicas.
 Gostei da forma como a Branddi alia inovação, design e propósito, valorizando a experiência do cliente e o impacto positivo das marcas.
 ```
+</details>
 
+<details>
+  <summary>
 ## 2️⃣ Você possui experiência comprovada como QA Engineer ou em uma função similar?
+    </summary>
 
 ### ✅ Resposta
 
@@ -29,6 +36,7 @@ Sim. Atuei como Analista de Qualidade de Software (QA) em projetos nacionais e i
 Utilizei ferramentas como Jira, Zephyr, BrowserStack e Postman, aplicando metodologias ágeis como Scrum, BDD e BDT.
 Também realizei manutenções pontuais em código Apex, liderei temporariamente o time de QA e ministrei treinamentos internos sobre Salesforce.
 ```
+</details>
 
 ## 3️⃣ Por qual motivo você é a pessoa ideal para essa posição?
 
