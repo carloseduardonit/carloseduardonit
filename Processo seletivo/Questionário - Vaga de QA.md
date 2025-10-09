@@ -179,3 +179,25 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 |------|------------------------|-----------------------|----------|----------|-----------------------------|
 | 1️⃣   | BRQ Digital Solutions | Analista de Sistema   | 08/2021  | 09/2023  | [brq.com](https://www.brq.com/) |
 </details>
+<details>
+  <summary>
+
+## 14 Possui maior domínio em qual ferramenta/framework de automação?
+  </summary>
+
+### ✅ Resposta
+
+```text
+Tenho maior domínio em Robot Framework, com o qual venho desenvolvendo automações de testes funcionais e de API.
+Escolhi essa ferramenta pela sua estrutura simples, integração com Python e excelente aplicabilidade em projetos Salesforce e ambientes de integração contínua (CI/CD).
+Além disso, tenho conhecimento básico em Cypress e Selenium, o que amplia minha versatilidade como QA.
+```
+</details>  
+<details>
+  <summary>
+## TESTE 
+  </summary>
+### ✅ Resposta
+```text
+```
+</details>
