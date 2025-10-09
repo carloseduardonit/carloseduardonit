@@ -193,11 +193,27 @@ Escolhi essa ferramenta pela sua estrutura simples, integração com Python e ex
 Além disso, tenho conhecimento básico em Cypress e Selenium, o que amplia minha versatilidade como QA.
 ```
 </details>  
+
+<details> 
+  <summary> 
+## Qual a sua disponibilidade para iniciar caso seja aprovado(a) no processo seletivo? 
+  </summary>
+
+### ✅ Resposta
+
+```text
+Posso iniciar imediatamente após a aprovação no processo seletivo.  
+Tenho total disponibilidade para integração rápida, com flexibilidade para  
+modelo remoto, híbrido (1 a 2 dias presenciais) ou conforme necessidade da empresa.  
+```
+</details>
 <details>
   <summary>
-## TESTE 
+## Pergunta
   </summary>
+
 ### ✅ Resposta
+
 ```text
 ```
 </details>
