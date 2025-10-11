@@ -196,6 +196,7 @@ Além disso, tenho conhecimento básico em Cypress e Selenium, o que amplia minh
 
 <details> 
   <summary> 
+    
 ## Qual a sua disponibilidade para iniciar caso seja aprovado(a) no processo seletivo? 
   </summary>
 
@@ -209,6 +210,7 @@ modelo remoto, híbrido (1 a 2 dias presenciais) ou conforme necessidade da empr
 </details>
 <details>
   <summary>
+
 ## Pergunta
   </summary>
 
