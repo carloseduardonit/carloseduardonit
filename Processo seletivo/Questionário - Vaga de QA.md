@@ -211,6 +211,18 @@ modelo remoto, híbrido (1 a 2 dias presenciais) ou conforme necessidade da empr
 <details>
   <summary>
 
+## Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?
+  </summary>
+
+### ✅ Resposta
+
+```text
+No
+```
+</details>
+<details>
+  <summary>
+
 ## Pergunta
   </summary>
 
