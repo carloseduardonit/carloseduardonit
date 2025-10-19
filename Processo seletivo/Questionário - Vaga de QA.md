@@ -136,7 +136,7 @@ Além disso, sou técnico em Contabilidade e técnico em Manutenção e Suporte 
 <details>
   <summary>
 
-## 🔟 Qual foi o valor da sua última remuneração? Tinha algum benefício?
+## 1️⃣0️⃣ Qual foi o valor da sua última remuneração? Tinha algum benefício?
   </summary>
 ### ✅ Resposta
 
@@ -183,7 +183,7 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 <details>
   <summary>
 
-## 1️⃣3️⃣Formação Acadêmica
+## 1️⃣4️⃣ Formação Acadêmica
   </summary>
 
 ### ✅ Resposta
@@ -194,12 +194,10 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 02/2012 | 12/2013  |
 | 4️⃣ | Senac RJ           | Técnico em Manutenção e Suporte de Informática     | 02/2010 | 12/2011  |
 </details>
-
-
 <details>
   <summary>
 
-## 14 Possui maior domínio em qual ferramenta/framework de automação?
+## 1️⃣5️⃣ Possui maior domínio em qual ferramenta/framework de automação?
   </summary>
 
 ### ✅ Resposta
@@ -210,11 +208,10 @@ Escolhi essa ferramenta pela sua estrutura simples, integração com Python e ex
 Além disso, tenho conhecimento básico em Cypress e Selenium, o que amplia minha versatilidade como QA.
 ```
 </details>  
-
 <details> 
   <summary> 
     
-## Qual a sua disponibilidade para iniciar caso seja aprovado(a) no processo seletivo? 
+## 1️⃣5️⃣ Qual a sua disponibilidade para iniciar caso seja aprovado(a) no processo seletivo? 
   </summary>
 
 ### ✅ Resposta
@@ -228,7 +225,7 @@ modelo remoto, híbrido (1 a 2 dias presenciais) ou conforme necessidade da empr
 <details>
   <summary>
 
-## Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?
+## 1️⃣6️⃣ Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?Você já aplicou princípios de modelos de maturidade em desenvolvimento de software, como RUP, CMMI-DEV ou ISO/NBR 15504 (SPICE)?
   </summary>
 
 ### ✅ Resposta
@@ -240,7 +237,7 @@ No
 <details>
   <summary>
 
-## Pergunta
+##  Pergunta
   </summary>
 
 ### ✅ Resposta
@@ -249,3 +246,4 @@ No
 ```
 </details>
 
+0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
