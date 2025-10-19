@@ -22,6 +22,7 @@
 
 ## 1️⃣ Você chegou a entrar no site da Branddi? Se sim, o que você entendeu?
   </summary>
+
 ### ✅ Resposta
 
 ```text
@@ -182,6 +183,22 @@ Isso me permite resolver problemas de forma criativa e garantir qualidade em tud
 <details>
   <summary>
 
+## 1️⃣3️⃣Formação Acadêmica
+  </summary>
+
+### ✅ Resposta
+| Nº  | Universidade       | Curso                                              | Início  | Fim      |
+|----:|:-------------------|:---------------------------------------------------|:-------:|:--------:|
+| 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2027  |
+| 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 09/2017  |
+| 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 02/2012 | 12/2013  |
+| 4️⃣ | Senac RJ           | Técnico em Manutenção e Suporte de Informática     | 02/2010 | 12/2011  |
+</details>
+
+
+<details>
+  <summary>
+
 ## 14 Possui maior domínio em qual ferramenta/framework de automação?
   </summary>
 
@@ -231,3 +248,4 @@ No
 ```text
 ```
 </details>
+
