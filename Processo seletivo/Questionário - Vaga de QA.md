@@ -237,7 +237,26 @@ No
 <details>
   <summary>
 
-##  Pergunta
+## 1️⃣7️⃣ Você já trabalhou com acessibilidade? Se sim, como foi a experiência? *
+  </summary>
+
+### ✅ Resposta
+#### ✅ Versão curta (para formulário):
+```text
+Ainda não atuei diretamente com testes de acessibilidade, mas tenho estudado boas práticas de UX e inclusão digital.
+Tenho interesse em aplicar ferramentas como axe DevTools, Lighthouse e WAVE, garantindo que os sistemas atendam aos padrões de WCAG e ofereçam uma boa experiência a todos os usuários.
+```
+#### 💡 Versão estratégica (para entrevista):
+```text
+Ainda não tive experiência profissional direta com testes de acessibilidade, mas compreendo a importância de garantir que todos os usuários, independentemente de limitações físicas ou cognitivas, possam utilizar os sistemas com facilidade.
+Tenho estudado boas práticas de design inclusivo, acessibilidade digital (WCAG) e o uso de ferramentas como Lighthouse e axe DevTools.
+Estou motivado a colocar esse conhecimento em prática para contribuir com soluções mais acessíveis e humanas.
+```
+</details>
+<details>
+  <summary>
+
+## 1️⃣ Pergunta
   </summary>
 
 ### ✅ Resposta
