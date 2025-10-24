@@ -256,7 +256,39 @@ Estou motivado a colocar esse conhecimento em prática para contribuir com solu�
 <details>
   <summary>
 
-## 1️⃣ Pergunta
+## 1️⃣8️⃣ Tem CPA-20 ou algumas certificação financeira? Se não, está disposto(a) a tirar? 
+  </summary>
+
+### ✅ Resposta
+#### ✅ Versão curta (para formulário):
+
+```text
+Ainda não possuo a certificação CPA-20, mas estou disposto a obtê-la caso seja necessária para a função. Tenho facilidade em aprender conteúdos técnicos e gosto de me manter em constante evolução profissional.
+```
+
+#### 💡 Versão estratégica (para entrevista):
+
+```text
+No momento, ainda não possuo a certificação CPA-20, porém tenho total disposição e interesse em conquistá-la.
+Minha base em Contabilidade e Finanças me ajuda a compreender com facilidade os temas abordados na certificação, e vejo esse passo como uma excelente oportunidade para expandir minha atuação técnica e analítica no setor financeiro.
+```
+
+</details>
+<details>
+  <summary>
+
+## 1️⃣9️⃣ Pergunta
+  </summary>
+
+### ✅ Resposta
+
+```text
+```
+</details>
+<details>
+  <summary>
+
+## 2️⃣ Pergunta
   </summary>
 
 ### ✅ Resposta
