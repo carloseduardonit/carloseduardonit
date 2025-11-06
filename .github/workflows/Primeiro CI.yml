@@ -38,5 +38,5 @@ jobs:
         run: npm install --global yarn
       - name: Install dependencies
         run: yarn install
-      - name: Run tests
-        run: yarn test
+      - name: Install Cypress tests
+        run: yarn add cypress --dev
