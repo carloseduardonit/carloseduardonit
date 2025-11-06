@@ -277,12 +277,13 @@ Minha base em Contabilidade e Finanças me ajuda a compreender com facilidade os
 <details>
   <summary>
 
-## 1️⃣9️⃣ Pergunta
+## 1️⃣9️⃣ O por que Você começo na Area Contabilidade
   </summary>
 
 ### ✅ Resposta
 
 ```text
+  
 ```
 </details>
 <details>
