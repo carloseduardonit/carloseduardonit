@@ -3,7 +3,7 @@
 ## Use ícones que transmitam movimento, evolução e trabalho contínuo:
 
 - Projeto Ativo / Em Desenvolvimento
-```✅```
+```text ✅```
 
 🚧 Em desenvolvimento
 
