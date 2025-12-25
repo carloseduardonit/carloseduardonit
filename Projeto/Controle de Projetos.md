@@ -8,16 +8,32 @@
 ✅
 ```
 
-🚧 Em desenvolvimento
+- Em desenvolvimento
 
-🔄 Atualizações frequentes
+```text
+🚧
+```
 
-🚀 Projeto ativo
+- Atualizações frequentes
 
-🧪 Em testes
+```text
+🔄
+```
 
-⚙️ Em evolução
+- Projeto ativo
 
+```text
+🚀
+```
+
+- Em testes
+```text
+🧪
+```
+- Em evolução
+```text
+⚙️
+```
 Exemplo no README / GIF:
 
 🚧🚀 Projeto ativo — melhorias contínuas em andamento.
