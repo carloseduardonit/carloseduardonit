@@ -27,20 +27,23 @@
 ```
 
 - Em testes
+
 ```text
 🧪
 ```
+
 - Em evolução
+
 ```text
 ⚙️
 ```
-Exemplo no README / GIF:
 
-🚧🚀 Projeto ativo — melhorias contínuas em andamento.
+### Exemplo no README / Descrição:
 
-⏸️ Projeto Parado / Pausado
+- 🚧🚀 Projeto ativo — melhorias contínuas em andamento.
+- ⏸️ Projeto Parado / Pausado
 
-Use ícones neutros, sem conotação negativa:
+## Use ícones neutros, sem conotação negativa:
 
 ⏸️ Pausado
 
@@ -52,22 +55,18 @@ Use ícones neutros, sem conotação negativa:
 
 🕰️ Aguardando retomada
 
-Exemplo:
+### Exemplo:
 
-⏸️📦 Projeto pausado para novos estudos.
+- ⏸️📦 Projeto pausado para novos estudos.
+- 🧾 Projeto Concluído
 
-🧾 Projeto Concluído
+## Para diferenciar de ambos:
 
-Para diferenciar de ambos:
+- ✅ Concluído
+- 🏁 Finalizado
+- 📌 Versão estável
+- 🎯 Objetivo alcançado
 
-✅ Concluído
-
-🏁 Finalizado
-
-📌 Versão estável
-
-🎯 Objetivo alcançado
-
-Exemplo:
+### Exemplo:
 
 ✅🏁 Projeto concluído.
