@@ -45,26 +45,36 @@
 
 ## Use ícones neutros, sem conotação negativa:
 
- Pausado
+- Pausado
+
 ```text
 ⏸️
 ```
- Em espera
+
+- Em espera
+
 ```text
 💤
 ```
- Arquivado
+
+- Arquivado
+
 ```text
 📦
 ```
- Congelado
+
+- Congelado
+
 ```text
 🧊
 ```
- Aguardando retomada
+
+- Aguardando retomada
+
 ```text
 🕰️
 ```
+
 ### Exemplo:
 
 - ⏸️📦 Projeto pausado para novos estudos.
