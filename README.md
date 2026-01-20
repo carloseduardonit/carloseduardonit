@@ -1,6 +1,6 @@
 # Carlos Eduardo dos Santos Figueiredo 🔄
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira Software(com JQL)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white) ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white) 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira Software(com JQL)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white) ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
 ---
 
@@ -114,28 +114,14 @@ public class HelloWorld {
 >  - superbadges: <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-experience-sbu/923740afc25850c35ffbd44a85079d53_badge.png" width="25px" alt = "Superbadge"/>
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-authentication-settings/da69b7644d137bd8cf5239499bd80d26_badge.png" width="25px"/>
 
-
-- **Ferramentas de testes E2E:** (Em estudo)
-
->  
-
-- **Ferramentas de Testes de Performace e de Stress** (Em estudo)
-
-> ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=Apache-JMeter&logoColor=white)
-
 - **Ferramentas de Gerenciamento de Projeto e  Teste:**  
 
 >  Zephyr e TFS
 
 #### 🛠️ Técnico em Manutenção e Suporte de Informática
 
-- Configuração e Manutenção de Computadores:
-
-> <img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
-
-- Implantação e Utilização de Sistemas Cliente e Servidor:
-
-> <img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wXP.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
+- Configuração e Manutenção de Computadores:<img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
+- Implantação e Utilização de Sistemas Cliente e Servidor:<img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wXP.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
 > <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 #### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
@@ -147,7 +133,6 @@ public class HelloWorld {
   - Confecção de Processos Administrativos:
     - Confecção do Parcelamento do Simples Nacional e SIMEI
     - Apoio na Extinção/Suspensão das Obrigações legais e acessórias.
-
 - **Pessoa Física**:
   - Geração de Guia de Recolhimento Social (GPS INSS)
   - Declaração de Imposto de Renda da Pessoa Física (IRPF)
