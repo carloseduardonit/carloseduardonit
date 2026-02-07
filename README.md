@@ -4,9 +4,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)![GitIgnore](https://img.shields.io/badge/gitignore.io-204ECF.svg?style=for-the-badge&logo=gitignoredotio&logoColor=white)![GitHub-Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ---
 
-𝐸𝓈𝚝𝐞 𝕡𝕖𝗿𝙛𝒊𝓵 𝚎𝕤𝔱𝓪́ 𝗲𝔪 𝒜𝔱𝚞𝐚𝖑𝒊𝑧𝒂𝙘̧𝒶̃ℴ
-
-## :man_technologist: Seja bem-vindo(a)<img src=".gitbook/assets/Diversos/rocklee.jpg" width="20px" alt = "RockLee" />
+## :man_technologist: Seja bem-vindo(a)
 
 <div id="SetorGit">
   <table>
@@ -30,12 +28,6 @@ public class HelloWorld {
     }
 }
 ```
-
-> [!IMPORTANT]
->
-> - Clique nos Titulos abaixo para ver os paragrafos conforme a demostração: :point_down:
-> <img src="/.gitbook/assets/demostracao.gif" alt="Demostração de com fazer">
-
 ---
 <details open>
 
@@ -45,8 +37,7 @@ public class HelloWorld {
 
 </summary>
 
-> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
-
+> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/cdossantosfigueiredo)
 </details>
 
 ---
@@ -72,7 +63,7 @@ public class HelloWorld {
 
 <summary>
 
-## 💼 𝐀́𝐫𝐞𝐚 𝐝𝐞 𝐀𝐭𝐮𝐚𝐜̧𝐚̃𝐨::point_left:
+## 💼 𝐀́𝐫𝐞𝐚 𝐝𝐞 𝐀𝐭𝐮𝐚𝐜̧𝐚̃𝐨: :point_left:
 
 </summary>
 
@@ -142,7 +133,7 @@ public class HelloWorld {
 
 ---
 
-<details>
+<details open>
 
   <summary>
 
@@ -179,7 +170,7 @@ public class HelloWorld {
 
 ---
 
-<details>
+<details open>
 
 <summary>
 
@@ -228,3 +219,6 @@ public class HelloWorld {
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 
 ![.Env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
