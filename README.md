@@ -97,11 +97,6 @@ public class HelloWorld {
     > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e Gherkin;
     > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
 
-- **Metodologias estudadas**: Clear Codes, Scrum, BDD, BDT E TDD.
-- **Ferramentas de Gerenciamento de Projeto e  Teste:**
-
->  Zephyr e TFS
-
 #### 🛠️ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂
 
 - Configuração e Manutenção de Computadores;
