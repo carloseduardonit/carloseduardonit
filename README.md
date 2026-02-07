@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)![GitIgnore](https://img.shields.io/badge/gitignore.io-204ECF.svg?style=for-the-badge&logo=gitignoredotio&logoColor=white)![GitHub-Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ---
 
-## :man_technologist: Seja bem-vindo(a)
+## :man_technologist: 𝑺𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐(𝒂)
 
 <div id="SetorGit">
   <table>
@@ -28,6 +28,7 @@ public class HelloWorld {
     }
 }
 ```
+
 ---
 <details open>
 
@@ -111,7 +112,6 @@ public class HelloWorld {
   - Confecção de Processos Administrativos:
     - Confecção do Parcelamento do Simples Nacional e SIMEI
     - Apoio na Extinção/Suspensão das Obrigações legais e acessórias.
-  - 
 - **Pessoa Física**:
   - Geração de Guia de Recolhimento Social (GPS INSS)
   - Declaração de Imposto de Renda da Pessoa Física (IRPF)
@@ -120,23 +120,23 @@ public class HelloWorld {
     - DETRAN
     - Receita Federal
 
-#### 🔨 Auxiliar de Marcenaria
+#### 🔨 𝑨𝒖𝒙𝒊𝒍𝒊𝒂𝒓 𝒅𝒆 𝑴𝒂𝒓𝒄𝒆𝒏𝒂𝒓𝒊𝒂
 
 - Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
 
 </details>
-
 ---
 
 <details open>
-
   <summary>
 
 ## 📄 Documentos :point_left:
 
   </summary>
 
-| [Currículo](https://drive.google.com/file/d/1nH3H30uOsj7UztF1alDF7l6oRtjUWPM1/view?usp=sharing) | [Carta Profissional](https://drive.google.com/file/d/1nIgc44slu7C62rtxCaJLr9Jp2NKP5YcF/view?usp=sharing) | [Lista de Cursos](https://drive.google.com/file/d/1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp/view?usp=sharing) |
+| [Currículo - [PT]](https://drive.google.com/open?id=1Cby3I89Wz21uZC-04GUTGrdritQzA1eB&usp=drive_fs) | [Carta Profissional - [PT]](https://drive.google.com/open?id=17Xtnt2ybxj3cbmbOIf5XpxVLd_tQXPZh&usp=drive_fs) | [Lista de Cursos - [PT]](https://drive.google.com/open?id=1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp&usp=drive_fs) |
+|[Currículo - [EN]](https://drive.google.com/open?id=1_lVf_Af-A-hIXfmvnq1I5JxEBONBcYvW&usp=drive_fs)|[Carta Profissional -[EN]](https://drive.google.com/open?id=1OUezcV0zv8maQycSlWdQUU8fpLYvJJpk&usp=drive_fs)|---|
+|||---|
 | :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
 
 </details>
@@ -144,24 +144,6 @@ public class HelloWorld {
 >[!WARNING]
 >
 > - Documentações atualizada em 19/10/2024
-
----
-<details>
-  <summary>
-
-## :globe_with_meridians: Sites que vou realizar o treinamento de teste E2E em 2025 :point_left:
-
-  </summary>
-
-- [ ] [saucedemo](https://www.saucedemo.com/) [no projeto](https://github.com/carloseduardonit/Teste-pratico-qa-testing-BeTalent-CEDSF)
-- [ ] [todomvc](https://todomvc.com/)
-- [ ] [practice.automationtesting](https://practice.automationtesting.in/)
-- [ ] [demo.automationtesting.in](https://demo.automationtesting.in/Register.html)
-  - [ ] [cypress-playground](https://cypress-playground.s3.eu-central-1.amazonaws.com/index.html)
-  - [ ] [page-objects-anonimos](https://page-objects-anonimos.vercel.app/ )
-  - [ ] [cucumber-soh-na-salada](https://cucumber-soh-na-salada.vercel.app )
-- [ ] [testautomationu](https://testautomationu.applitools.com/pact-contract-tests/)
-</details>
 
 ---
 
@@ -209,11 +191,16 @@ public class HelloWorld {
 
 
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000.svg?style=for-the-badge&logo=NotebookLM&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 
 ![.Env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
