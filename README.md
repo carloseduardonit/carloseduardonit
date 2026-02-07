@@ -37,7 +37,7 @@ public class HelloWorld {
 > <img src="/.gitbook/assets/demostracao.gif" alt="Demostração de com fazer">
 
 ---
-<details>
+<details open>
 
 <summary>
 
@@ -51,7 +51,7 @@ public class HelloWorld {
 
 ---
 
-<details>
+<details open>
 
 <summary>
 
@@ -68,7 +68,7 @@ public class HelloWorld {
 </details>
 
 ---
-<details>
+<details open>
 
 <summary>
 
@@ -219,6 +219,7 @@ public class HelloWorld {
   - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Trabalhar com formatação avançada no GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
   - [mermaid](https://github.com/mermaid-js/mermaid)
+  - [Yaytext](https://yaytext.com/pt/)
 
 </details>
 
