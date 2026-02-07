@@ -133,11 +133,12 @@ public class HelloWorld {
 ## 📄 Documentos :point_left:
 
   </summary>
-
+  
+||||
+| :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
 | [Currículo - [PT]](https://drive.google.com/open?id=1Cby3I89Wz21uZC-04GUTGrdritQzA1eB&usp=drive_fs) | [Carta Profissional - [PT]](https://drive.google.com/open?id=17Xtnt2ybxj3cbmbOIf5XpxVLd_tQXPZh&usp=drive_fs) | [Lista de Cursos - [PT]](https://drive.google.com/open?id=1nJCW_VcsJdRtgWoTWVzEWN7Kn7UtQIAp&usp=drive_fs) |
 |[Currículo - [EN]](https://drive.google.com/open?id=1_lVf_Af-A-hIXfmvnq1I5JxEBONBcYvW&usp=drive_fs)|[Carta Profissional -[EN]](https://drive.google.com/open?id=1OUezcV0zv8maQycSlWdQUU8fpLYvJJpk&usp=drive_fs)|---|
 |||---|
-| :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: |
 
 </details>
 
