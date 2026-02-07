@@ -45,7 +45,7 @@ public class HelloWorld {
 
 </summary>
 
-> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
 
 </details>
 
@@ -72,13 +72,13 @@ public class HelloWorld {
 
 <summary>
 
-## 💼 Área de Atuação :point_left:
+## 💼 𝐀́𝐫𝐞𝐚 𝐝𝐞 𝐀𝐭𝐮𝐚𝐜̧𝐚̃𝐨::point_left:
 
 </summary>
 
 ###
 
-#### 💻 Analista e Desenvolvedor de Sistemas
+#### 💻 𝑨𝒏𝒂𝒍𝒊𝒔𝒕𝒂 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - **Alocado na Ouro Verde/Unidas por 1 ano e 6 meses**
@@ -107,24 +107,16 @@ public class HelloWorld {
     > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
 
 - **Metodologias estudadas**: Clear Codes, Scrum, BDD, BDT E TDD.
-
-- **CRM:**
-
->  [Trailhead](https://trailblazer.me/id/cdossantosfigueiredo) <img src=".gitbook/assets/Sistema/trailhead.png" width="20px" alt = "Estudo de Salesforce"/>
->  - superbadges: <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-experience-sbu/923740afc25850c35ffbd44a85079d53_badge.png" width="25px" alt = "Superbadge"/>
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-user-authentication-settings/da69b7644d137bd8cf5239499bd80d26_badge.png" width="25px"/>
-
-- **Ferramentas de Gerenciamento de Projeto e  Teste:**  
+- **Ferramentas de Gerenciamento de Projeto e  Teste:**
 
 >  Zephyr e TFS
 
-#### 🛠️ Técnico em Manutenção e Suporte de Informática
+#### 🛠️ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂
 
-- Configuração e Manutenção de Computadores:<img src=".gitbook/assets/computador.jpeg" width="20px" alt = "Computador"/>
-- Implantação e Utilização de Sistemas Cliente e Servidor:<img src=".gitbook/assets/Sistema/w98.png" width="20px" alt = "Windows 98"/> <img src=".gitbook/assets/Sistema/wXP.png" width="20px" alt ="Windows XP" /> <img src=".gitbook/assets/Sistema/wVista.png" width="20px" alt = "Windows Vista"/> <img src=".gitbook/assets/Sistema/w7.png" width="20px" alt = "Windows 7"/> <img src=".gitbook/assets/Sistema/w8.png" width="20px" alt = "Windows 8"/> <img src=".gitbook/assets/Sistema/w10.png" width="20px" alt = "Windows 10"/>
-> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-outlook-2019--v2.png" alt="microsoft-outlook-2019--v2"/> <img width="20" height="20" src="https://img.icons8.com/color/20/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-access.png" alt="ms-access"/> <img width="20" height="20" src="https://img.icons8.com/color/20/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/> <img width="20" height="20" src="https://img.icons8.com/color/20/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+- Configuração e Manutenção de Computadores;
+- Implantação e Utilização de Sistemas Cliente e Servidor:
 
-#### 📊 Técnico em Contabilidade e Universitário de Ciências Contábeis
+#### 📊 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒅𝒆 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔
 
 - **Pessoa Jurídica**:
   - Abertura e Encerramento de Empresas
@@ -133,6 +125,7 @@ public class HelloWorld {
   - Confecção de Processos Administrativos:
     - Confecção do Parcelamento do Simples Nacional e SIMEI
     - Apoio na Extinção/Suspensão das Obrigações legais e acessórias.
+  - 
 - **Pessoa Física**:
   - Geração de Guia de Recolhimento Social (GPS INSS)
   - Declaração de Imposto de Renda da Pessoa Física (IRPF)
