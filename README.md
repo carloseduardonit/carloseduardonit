@@ -68,9 +68,7 @@ public class HelloWorld {
 
 </summary>
 
-###
-
-#### 💻 𝑨𝒏𝒂𝒍𝒊𝒔𝒕𝒂 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔
+### 💻 𝑨𝒏𝒂𝒍𝒊𝒔𝒕𝒂 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - **Alocado na Ouro Verde/Unidas por 1 ano e 6 meses**
@@ -103,7 +101,7 @@ public class HelloWorld {
 - Configuração e Manutenção de Computadores;
 - Implantação e Utilização de Sistemas Cliente e Servidor:
 
-#### 📊 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒅𝒆 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔
+### 📊 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒅𝒆 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔
 
 - **Pessoa Jurídica**:
   - Abertura e Encerramento de Empresas
@@ -120,7 +118,7 @@ public class HelloWorld {
     - DETRAN
     - Receita Federal
 
-#### 🔨 𝑨𝒖𝒙𝒊𝒍𝒊𝒂𝒓 𝒅𝒆 𝑴𝒂𝒓𝒄𝒆𝒏𝒂𝒓𝒊𝒂
+### 🔨 𝑨𝒖𝒙𝒊𝒍𝒊𝒂𝒓 𝒅𝒆 𝑴𝒂𝒓𝒄𝒆𝒏𝒂𝒓𝒊𝒂
 
 - Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
 
@@ -130,7 +128,7 @@ public class HelloWorld {
 <details open>
   <summary>
 
-## 📄 Documentos :point_left:
+## 📄 Documentos: :point_left:
 
   </summary>
   
@@ -144,7 +142,7 @@ public class HelloWorld {
 
 >[!WARNING]
 >
-> - Documentações atualizada em 19/10/2024
+> - Documentações atualizada em 13/07/2025
 
 ---
 
@@ -162,7 +160,7 @@ public class HelloWorld {
 
 ---
 
-<details>
+<details open>
 
 <summary>
 
@@ -186,7 +184,10 @@ public class HelloWorld {
 </details>
 
 ---
-
+<details>
+<Summary>
+Organizar
+</Summary>
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 
@@ -205,3 +206,5 @@ public class HelloWorld {
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</details>
