@@ -123,6 +123,7 @@ public class HelloWorld {
 - Trabalhei na empresa [Carlos Augusto Marceneiro do Rio do Ouro](https://carlos-augusto-marceneiro-no-rio-do-ouro.business.site/)
 
 </details>
+
 ---
 
 <details open>
