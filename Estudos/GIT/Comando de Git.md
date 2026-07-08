@@ -1,68 +1,99 @@
-# Utilização do Git Hub
+# Utilização do Git
 
 ## Configuração do Git
 
-## Comandos Git Hub
+Para usar o Git corretamente, configure seu nome e e-mail apenas uma vez:
 
-### Incializar o Repósitorio na pasta Local
-
-``` bash
-    git init
+```bash
+git config --global user.name "Seu Nome"
+git config --global user.email "seu.email@exemplo.com"
 ```
 
-### Copiar o projeto  de um repositorio remoto
+Se quiser ver a configuração atual:
 
-``` bash
-    git clone < link_do_Repositorio >
+```bash
+git config --list
 ```
 
-### Atualizar o seu projeto
+## Comandos Git básicos
 
-``` bash
-    git pull
+### Inicializar um repositório local
+
+```bash
+git init
 ```
 
-### Criar uma  Branch
+### Clonar um repositório remoto
 
-``` bash
-    git branch < nome_da_branch >
+```bash
+git clone <url-do-repositorio>
 ```
 
-### Trocar para uma outra branch
+### Atualizar o repositório local a partir do remoto
 
-``` bash
-    git checkout  < nome_da_branch >
+```bash
+git pull
 ```
 
-### Criar uma branch e troca ao mesmo tempo
+### Criar uma branch
 
-``` bash
-    git checkout  -b < nome_da_branch >
+```bash
+git branch <nome-da-branch>
 ```
 
-### Adicionar apenas um arquivo especifico
+### Trocar para outra branch
 
-``` bash
-    git add arquivo.txt
+```bash
+git checkout <nome-da-branch>
 ```
 
-### Adicionar todos  os arquivos
+### Criar e trocar para uma branch ao mesmo tempo
 
-``` bash
-    git add .
+```bash
+git checkout -b <nome-da-branch>
 ```
 
-### Comitar os arquivos  adicionados
+### Adicionar um arquivo específico ao stage
 
-``` bash
-    git commit -m '<Mensagem>'
+```bash
+git add arquivo.txt
 ```
 
-### Enviar os arquivos comitados para o  repositorio remoto
+### Adicionar todos os arquivos modificados ao stage
 
-``` bash
-    git push
+```bash
+git add .
 ```
+
+### Comitar as alterações
+
+```bash
+git commit -m "Mensagem do commit"
+```
+
+### Enviar os commits para o repositório remoto
+
+```bash
+git push
+```
+
+### Exibir o status atual do repositório
+
+```bash
+git status
+```
+
+### Ver o histórico de commits
+
+```bash
+git log --oneline
+```
+
+## Dicas rápidas
+
+- Use `git status` antes de cada commit para ver o que mudou.
+- Use `git add .` para adicionar todas as alterações, ou `git add <arquivo>` para etapas específicas.
+- Sempre escreva mensagens de commit claras e objetivas.
 
 ## Bibliografia
 
