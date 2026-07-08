@@ -86,7 +86,7 @@ public class HelloWorld {
     > - Apliquei conhecimento contábil em processos como depreciação de veículos e análise de custos nos testes;
     > - Apoiei a precificação de compra de novos veículos em iniciativas de CAPEX e coordenação durante os testes;
     > - Classifiquei o rate do cliente nos testes para apoiar análises de pricing, performance e compliance;
-  - **Alocado na Nissan Argentina por 2 meses** <img width="20" height="20" src="https://img.icons8.com/color/20/nissan.png" alt="nissan"/> *"Cobertura de Férias dos QA pleno e sênior"*
+  - **Alocado na Nissan Argentina por 2 meses** <img width="20" height="20" src="https://img.icons8.com/color/20/nissan.png" alt="nissan"/> *"Cobertura de férias para QA pleno/sênior em ambiente bilíngue."*
     > - Realizei os mapeamentos de processos do cliente e de campos;
     > - Traduzi parte do mapeamento de processos do espanhol para o português e inglês;
     > - Executei as escritas dos scripts de testes no modelo Step-by-Step;
@@ -102,6 +102,7 @@ public class HelloWorld {
   - **Alocado na Corteg por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
     > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e Gherkin;
+    > - Controlava bugs e a comunicação de incidentes pelo Jira;
     > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com BrowserStack.
 
 #### 🛠️ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂
