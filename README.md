@@ -95,6 +95,8 @@ public class HelloWorld {
   - **Alocado na Auriverde por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
     > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e Gherkin;
+    > - Realizava análise e aprovação de desconto concedido ao cliente nos testes do CRM Salesforce;
+    > - Controlava bugs e a comunicação de incidentes pelo Jira;
     > - Utilizava o gerenciamento de backlog pelo Trello;
     > - Realizava testes manuais no CRM Salesforce e Mobile Device Testing com BrowserStack.
   - **Alocado na Corteg por 3 meses**
