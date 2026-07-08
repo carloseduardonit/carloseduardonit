@@ -99,25 +99,27 @@ public class HelloWorld {
 
 #### 🛠️ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂
 
-- Configuração e Manutenção de Computadores;
-- Implantação e Utilização de Sistemas Cliente e Servidor:
+- Configuração e manutenção de computadores;
+- Implantação e utilização de sistemas cliente e servidor;
 
-### 📊 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒅𝒆 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔
+### 📊 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒆𝒎 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔
 
 - **Pessoa Jurídica**:
-  - Abertura e Encerramento de Empresas
-    - Inscrição de Municipal e Estadual
-  - Sistema Tributário: Simples Nacional, Microempreendedor Individual (MEI)
-  - Confecção de Processos Administrativos:
-    - Confecção do Parcelamento do Simples Nacional e SIMEI
-    - Apoio na Extinção/Suspensão das Obrigações legais e acessórias.
+  - Abertura, regularização e encerramento de empresas;
+    - Inscrições municipal e estadual;
+  - Sistema tributário: Simples Nacional e Microempreendedor Individual (MEI);
+  - Processos administrativos e parcelamentos fiscais:
+    - Parcelamento do Simples Nacional e do SIMEI;
+    - Extinção e suspensão de obrigações legais e acessórias;
+  - Rotinas contábeis e fiscais: livros contábeis, apuração de tributos, DCTF, SPED, ISS, ICMS, PIS/COFINS;
+  - Atendimento e orientação ao cliente sobre obrigações fiscais e tributárias.
 - **Pessoa Física**:
-  - Geração de Guia de Recolhimento Social (GPS INSS)
-  - Declaração de Imposto de Renda da Pessoa Física (IRPF)
-  - Confecção de Processos Administrativos:
-    - INSS
-    - DETRAN
-    - Receita Federal
+  - Emissão de Guia de Recolhimento Social (GPS/INSS);
+  - Declaração de Imposto de Renda da Pessoa Física (IRPF);
+  - Regularização de obrigações junto a órgãos públicos:
+    - INSS;
+    - DETRAN;
+    - Receita Federal.
 
 ### 🔨 𝑨𝒖𝒙𝒊𝒍𝒊𝒂𝒓 𝒅𝒆 𝑴𝒂𝒓𝒄𝒆𝒏𝒂𝒓𝒊𝒂
 
