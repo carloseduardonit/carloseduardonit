@@ -4,73 +4,105 @@
 
 ## Objetivo
 
-Breve propósito do questionário: triagem técnica para vaga de QA (manual/automação), com foco em experiência em Salesforce, automação e práticas de qualidade.
+Breve propósito: triagem técnica para vaga de QA (manual e automação), com foco em Salesforce, automação e práticas de qualidade.
 
 ## Instruções
 
 - Tempo estimado: 20–40 minutos
-- Respostas: objetivas, com exemplos quando possível
-- Formato: texto inline; anexos ou links (GitHub, Gists) são bem-vindos
-- Idioma: Português (PT-BR) — indique se preferir responder em inglês/espanhol
+- Respostas objetivas; inclua exemplos e links quando possível (GitHub, Gists)
+- Prefira português (PT-BR); indique se preferir inglês ou espanhol
+- Use frases curtas e voz ativa (ex.: "Criei", "Executei", "Descrevo")
 
 ## Dados do Candidato
 
 - Nome:
-- Contato (telefone/e-mail):
+- Contato (telefone / e-mail):
 - LinkedIn / GitHub:
 - Tempo de experiência (anos):
 
 ## Resumo Profissional (2–3 linhas)
 
-Peça um resumo curto destacando foco em QA, plataformas dominadas e experiências relevantes.
+Resumo curto destacando foco em QA, plataformas dominadas e experiências relevantes.
 
 ## Competências Técnicas (marque e descreva)
 
-- QA Manual: (sim/não + exemplos)
-- Automação: (ferramentas e nível: Robot Framework, Cypress, Selenium, etc.)
-- Testes de API: (Postman, Newman, etc.)
-- Testes de performance: (JMeter, k6)
-- CI/CD: (GitHub Actions, GitLab CI)
-- Banco de dados / SQL: (sim/não + nível)
+- QA Manual: sim/não + exemplos de casos testados
+- Automação: listar ferramentas e nível (Robot Framework, Cypress, Selenium)
+- Testes de API: ferramentas e abordagens (Postman, Newman, contratos)
+- Testes de performance: ferramentas e escopo (JMeter, k6)
+- CI/CD: experiência com pipelines (GitHub Actions, GitLab CI, Jenkins)
+- Banco de dados / SQL: nível e exemplos de queries usadas
 
 ## Ferramentas e Plataformas
 
-Peça que liste experiência com: Jira, Zephyr, Salesforce (Sales/Service Cloud), BrowserStack, Postman, JMeter, Git, Bitbucket/GitHub.
+Liste experiência com: Jira, Zephyr, Salesforce (Sales/Service Cloud), BrowserStack, Postman, JMeter, Git, Bitbucket/GitHub, Sentry/Datadog.
 
-## Cenários Práticos (3 exercícios sugeridos)
+## Cenários Práticos (3 exercícios)
 
-1) Escreva um cenário em Gherkin para o requisito: "Usuário cadastra um novo cliente no CRM e recebe confirmação por e-mail".
+1) Gherkin (exemplo): escrever um cenário para "Usuário cadastra cliente e recebe confirmação por e-mail".
 
-2) Analise o bug report abaixo (título, passos, resultado esperado, resultado atual) e indique prioridade e próximo passo.
+  Exemplo de resposta esperada:
 
-3) Descreva um checklist mínimo de testes para validar uma rotina de precificação de veículo (pricing) em CRM.
+  ```gherkin
+  Feature: Cadastro de cliente
 
-## Perguntas Técnicas (objetivas + abertas)
+    Scenario: Cadastro com sucesso e confirmação por e-mail
+     Given que o usuário está na página de cadastro
+     When preenche os dados obrigatórios e confirma
+     Then o sistema salva o cliente
+     And o sistema envia um e-mail de confirmação para o endereço cadastrado
+  ```
 
-- Explique a diferença entre smoke, sanity e regression tests.
-- Quando usar mocks em testes de integração?
-- Como validar um fluxo de pricing que depende de API externa e base contábil?
+2) Bug report (analisar): forneça prioridade (Baixa/Média/Alta/Critical) e próximo passo.
+
+  Template mínimo para análise:
+
+  - Título:
+  - Ambiente (dev/stage/prod):
+  - Passos para reproduzir:
+  - Resultado esperado:
+  - Resultado atual:
+  - Evidências (logs/prints):
+  - Severidade / Prioridade:
+  - Próximo passo sugerido:
+
+3) Checklist mínimo para validar rotina de pricing:
+
+- Validar regras de negócio (tabela de preços, descontos)
+- Verificar cálculos com base contábil e impostos
+- Testar integração com API externa (mock/contract)
+- Validar rollback e mensagens de erro
+- Testar permissões e casos de borda
+
+## Perguntas Técnicas (objetivas)
+
+- Explique a diferença entre smoke, sanity e regression tests (resuma em 1–2 frases).
+- Quando usar mocks em testes de integração? Cite prós e contras.
+- Como validar um fluxo de pricing que depende de API externa e de regras contábeis? (indique estratégias de teste e validação)
+- Como você verifica impacto de dados contábeis na precificação (ex.: depreciação, CAPEX)?
 
 ## Perguntas Comportamentais / Processos
 
-- Conte uma situação em que você precisou comunicar um incidente crítico: como foi o processo?
-- Como prioriza testes quando o tempo é limitado?
+- Descreva um incidente crítico que você comunicou: ação tomada, comunicação e resultado.
+- Como prioriza testes quando há limitação de tempo? Indique critérios objetivos.
+- Como você registra e acompanha bugs até a resolução? Cite ferramentas e boas práticas.
 
 ## Critérios de Avaliação (sugestão)
 
-- Técnica: 50% (prática + perguntas)
-- Prática: 30% (cenários)
-- Comportamental: 20%
+- Técnica: 50% (respostas técnicas + perguntas)
+- Prática: 30% (cenários e exemplos)
+- Comportamental: 20% (comunicação e processo)
 
-Escala: 0 = insuficiente, 1 = básico, 2 = bom, 3 = ótimo
+Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
+
 
 ## Observações do Entrevistador
 
-- Espaço para anotações, links enviados pelo candidato, decisão e follow-up.
+- Espaço para anotações, decisão, score final e follow-up.
 
 ## Anexos / Evidências
 
-- Links para repositório, prints, relatórios, planilhas, arquivos de teste.
+- Links para repositório, prints, relatórios, planilhas e arquivos de teste.
 
 ---
 
