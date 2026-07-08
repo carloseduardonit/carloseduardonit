@@ -73,29 +73,34 @@ public class HelloWorld {
 
 - **Trabalhei na empresa [BRQ Digital Solutions](https://www.linkedin.com/company/brq/posts/?feedView=all)**
   - **Alocado na Ouro Verde/Unidas por 1 ano e 6 meses**
-    > - Utilizava as metodologias *los 3 amigos*, *Scrum*, *BDD* e *BDT*
+    > - Utilizava as metodologias *los 3 amigos*, *Scrum*, *BDD* e *BDT*;
     > - Realizava a análise das documentações funcionais;
     > - Executava a escrita dos cenários e dos Bugs no modelo Step-by-Step;
-    > - Realizava a Importação dos cenários do Excel para Zephyr e mapeamento dos erros na importação;
+    > - Realizava a importação dos cenários do Excel para Zephyr e o mapeamento dos erros na importação;
     > - Executava o gerenciamento de cards através do Jira e do Zephyr;
-    > - Executava a confecção de Relatórios e Dashboards utilizando o JQL;
+    > - Executava a confecção de relatórios e dashboards utilizando o JQL;
     > - Executava os testes manuais no CRM Salesforce, na API Pricing e no ERP Microsoft Dynamics AX;
     > - Realizei a manutenção em parte do código Apex;
     > - Disponibilizei o treinamento de Salesforce para equipe de QAs;
-    > - Liderei o time de QA em + ou - 1 mês nos testes do projeto.
+    > - Liderei o time de QA em aproximadamente 1 mês nos testes do projeto;
+    > - Apliquei conhecimento contábil em processos como depreciação de veículos e análise de custos nos testes;
+    > - Apoiei a precificação de compra de novos veículos em iniciativas de CAPEX e coordenação durante os testes;
+    > - Classifiquei o rate do cliente nos testes para apoiar análises de pricing, performance e compliance;
   - **Alocado na Nissan Argentina por 2 meses** <img width="20" height="20" src="https://img.icons8.com/color/20/nissan.png" alt="nissan"/> *"Cobertura de Férias dos QA pleno e sênior"*
     > - Realizei os mapeamentos de processos do cliente e de campos;
+    > - Traduzi parte do mapeamento de processos do espanhol para o português e inglês;
     > - Executei as escritas dos scripts de testes no modelo Step-by-Step;
-    > - Executei os testes manuais no CRM Salesforce.
+    > - Executei os testes manuais no CRM Salesforce;
+    > - Trabalhei com vídeos explicativos em espanhol para validar os requisitos e as traduções.
   - **Alocado na Auriverde por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
     > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e Gherkin;
     > - Utilizava o gerenciamento de backlog pelo Trello;
-    > - Teste manuais no CRM Salesforce e Mobile Device Testing com browserstack.
+    > - Realizava testes manuais no CRM Salesforce e Mobile Device Testing com BrowserStack.
   - **Alocado na Corteg por 3 meses**
     > - Utilizava a metodologia Scrum e BDD;
-    > - Executava a escrita dos cenários e dos Bugs no modelos Step-by-Step e Gherkin;
-    > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com browserstack.
+    > - Executava a escrita dos cenários e dos Bugs nos modelos Step-by-Step e Gherkin;
+    > - Executava os testes manuais no CRM Salesforce e Mobile Device Testing com BrowserStack.
 
 #### 🛠️ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂
 
