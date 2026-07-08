@@ -20,6 +20,16 @@ Breve propósito: triagem técnica para vaga de QA (manual e automação), com f
 - LinkedIn / GitHub:
 - Tempo de experiência (anos):
 
+## Redes Sociais
+
+Preencha suas redes profissionais. O link deve ser um URL copiável.
+
+| Nome da rede | Link |
+|---|---|
+| LinkedIn | [perfil](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/) |
+| GitHub | [seu-usuario](https://github.com/carloseduardonit/) |
+| Outro (ex.: X/Twitter) | https:// |
+
 ## Resumo Profissional (2–3 linhas)
 
 Resumo curto destacando foco em QA, plataformas dominadas e experiências relevantes.
