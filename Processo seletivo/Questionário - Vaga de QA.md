@@ -25,7 +25,7 @@ Breve propósito: triagem técnica para vaga de QA (manual e automação), com f
 Preencha suas redes profissionais. O link deve ser um URL copiável.
 
 | Nome da rede | Link |
-|---|---|
+| --- | --- |
 | LinkedIn | [perfil](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/) |
 | GitHub | [seu-usuario](https://github.com/carloseduardonit/) |
 | Outro (ex.: X/Twitter) | https:// |
@@ -63,20 +63,20 @@ Liste experiência com: Jira, Zephyr, Salesforce (Sales/Service Cloud), BrowserS
      And o sistema envia um e-mail de confirmação para o endereço cadastrado
   ```
 
-2) Bug report (analisar): forneça prioridade (Baixa/Média/Alta/Critical) e próximo passo.
+1) Bug report (analisar): forneça prioridade (Baixa/Média/Alta/Critical) e próximo passo.
 
   Template mínimo para análise:
 
-  - Título:
-  - Ambiente (dev/stage/prod):
-  - Passos para reproduzir:
-  - Resultado esperado:
-  - Resultado atual:
-  - Evidências (logs/prints):
-  - Severidade / Prioridade:
-  - Próximo passo sugerido:
+- Título:
+- Ambiente (dev/stage/prod):
+- Passos para reproduzir:
+- Resultado esperado:
+- Resultado atual:
+- Evidências (logs/prints):
+- Severidade / Prioridade:
+- Próximo passo sugerido:
 
-3) Checklist mínimo para validar rotina de pricing:
+1) Checklist mínimo para validar rotina de pricing:
 
 - Validar regras de negócio (tabela de preços, descontos)
 - Verificar cálculos com base contábil e impostos
@@ -105,7 +105,6 @@ Liste experiência com: Jira, Zephyr, Salesforce (Sales/Service Cloud), BrowserS
 
 Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
 
-
 ## Observações do Entrevistador
 
 - Espaço para anotações, decisão, score final e follow-up.
@@ -124,15 +123,15 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   <details>
     <summary>Lista de sites (cadastro/atualizado currículo)</summary>
 
-  - [X] [99jobs](https://99jobs.com/)
-  - [X] [Solides](https://perfil.vagas.solides.com.br/)
-  - [X] [Linkedin](https://www.linkedin.com/)
-  - [ ] [Indeed](https://www.indeed.com.br/)
-  - [ ] [Glassdoor](https://www.glassdoor.com.br/index.htm)
-  - [ ] [Vagas.com](https://www.vagas.com.br/)
-  - [ ] [Catho](https://www.catho.com.br/)
-  - [ ] [Infojobs](https://www.infojobs.com.br/)
-  - [ ] [Gupy](https://www.gupy.io/)
+- [X] [99jobs](https://99jobs.com/)
+- [X] [Solides](https://perfil.vagas.solides.com.br/)
+- [X] [Linkedin](https://www.linkedin.com/)
+- [ ] [Indeed](https://www.indeed.com.br/)
+- [ ] [Glassdoor](https://www.glassdoor.com.br/index.htm)
+- [ ] [Vagas.com](https://www.vagas.com.br/)
+- [ ] [Catho](https://www.catho.com.br/)
+- [ ] [Infojobs](https://www.infojobs.com.br/)
+- [ ] [Gupy](https://www.gupy.io/)
 
   </details>
 
@@ -220,9 +219,9 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
 
   | Nº  | Universidade       | Curso                                              | Início  | Fim      |
   |----:|:-------------------|:---------------------------------------------------|:-------:|:--------:|
-  | 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2027  |
-  | 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 09/2017  |
-  | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 02/2012 | 12/2013  |
+  | 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2028  |
+  | 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 12/2017  |
+  | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 07/2016 | 07/2017  |
   | 4️⃣ | Senac RJ           | Técnico em Manutenção e Suporte de Informática     | 02/2010 | 12/2011  |
 
   </details>
@@ -311,7 +310,8 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   </details>
 
   <details>
-    <summary>19. Por que começou na Contabilidade?</summary>
+    <summary>
+    19. Por que começou na Contabilidade?</summary>
 
   ```text
   Resposta do candidato (preencher).
