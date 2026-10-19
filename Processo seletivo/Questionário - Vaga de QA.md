@@ -126,12 +126,12 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
 - [X] [99jobs](https://99jobs.com/)
 - [X] [Solides](https://perfil.vagas.solides.com.br/)
 - [X] [Linkedin](https://www.linkedin.com/)
-- [ ] [Indeed](https://www.indeed.com.br/)
-- [ ] [Glassdoor](https://www.glassdoor.com.br/index.htm)
+- [X] [Indeed](https://www.indeed.com.br/)
+- [X] [Glassdoor](https://www.glassdoor.com.br/index.htm)
 - [ ] [Vagas.com](https://www.vagas.com.br/)
 - [ ] [Catho](https://www.catho.com.br/)
 - [ ] [Infojobs](https://www.infojobs.com.br/)
-- [ ] [Gupy](https://www.gupy.io/)
+- [X] [Gupy](https://www.gupy.io/)
 
   </details>
 
