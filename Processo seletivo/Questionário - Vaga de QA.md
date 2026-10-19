@@ -222,7 +222,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   | 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2028  |
   | 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 12/2017  |
   | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 07/2016 | 07/2017  |
-  | 4️⃣ | Senac RJ           | ```Técnico em Manutenção e Suporte de Informática``` | 12/2013 | 12/2014  |
+  | 4️⃣ | Senac RJ           | ```text Técnico em Manutenção e Suporte de Informática``` | 12/2013 | 12/2014  |
 
   </details>
 
