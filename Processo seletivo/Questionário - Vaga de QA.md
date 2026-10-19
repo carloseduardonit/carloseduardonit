@@ -222,7 +222,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   | 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2028  |
   | 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 12/2017  |
   | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 07/2016 | 07/2017  |
-  | 4️⃣ | Senac RJ           | Técnico em Manutenção e Suporte de Informática     | 02/2010 | 12/2011  |
+  | 4️⃣ | Senac RJ           | Técnico em Manutenção e Suporte de Informática     | 12/2013 | 12/2014  |
 
   </details>
 
@@ -303,20 +303,17 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   <details>
     <summary>18. CPA-20</summary>
 
-  ```text
-  Ainda não possuo a certificação CPA-20, mas estou disposto a obtê-la caso seja necessária.
-  ```
-
+    ```text
+    Ainda não possuo a certificação CPA-20, mas estou disposto a obtê-la caso seja necessária.
+    ```
   </details>
 
   <details>
-    <summary>
-    19. Por que começou na Contabilidade?</summary>
+    <summary>19. Por que começou na Contabilidade?</summary>
 
-  ```text
-  Resposta do candidato (preencher).
-  ```
-
+    ```text
+    Em 2013, surgiu a oportunidade de realizar a manutenção de computadores em um escritório de contabilidade. Durante essa experiência, identifiquei problemas nas planilhas Excel utilizadas no controle de devedores, em uma rotina contábil e no acompanhamento de pendências fiscais de Microempreendedores Individuais (MEIs) e pessoas físicas. Essa vivência aproximou meus conhecimentos de informática e contabilidade, contribuindo para a busca de soluções que facilitassem as rotinas administrativas e contábeis.
+    ```
   </details>
 
 </details>
