@@ -128,7 +128,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
 - [X] [Linkedin](https://www.linkedin.com/)
 - [X] [Indeed](https://www.indeed.com.br/)
 - [X] [Glassdoor](https://www.glassdoor.com.br/index.htm)
-- [ ] [Vagas.com](https://www.vagas.com.br/)
+- [x] [Vagas.com](https://www.vagas.com.br/)
 - [ ] [Catho](https://www.catho.com.br/)
 - [ ] [Infojobs](https://www.infojobs.com.br/)
 - [X] [Gupy](https://www.gupy.io/)
@@ -217,12 +217,12 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
   <details>
     <summary>9. Formação acadêmica</summary>
 
-  | Nº  | Universidade       | Curso                                              | Início  | Fim      |
-  |----:|:-------------------|:---------------------------------------------------|:-------:|:--------:|
-  | 1️⃣ | UFF                | Ciências Contábeis                                 | 08/2021 | 12/2028  |
-  | 2️⃣ | Estácio de Sá      | Análise e Desenvolvimento de Sistemas             | 08/2015 | 12/2017  |
-  | 3️⃣ | Senac RJ           | Técnico em Contabilidade                           | 07/2016 | 07/2017  |
-  | 4️⃣ | Senac RJ           | ```text Técnico em Manutenção e Suporte de Informática``` | 12/2013 | 12/2014  |
+  | Nº | Universidade | Curso | Início | Fim |
+  | ----: | :------------------- | :--------------------------------------------- | :-------: | :--------: |
+  | 1️⃣ | UFF | Ciências Contábeis | 08/2021 | 12/2028 |
+  | 2️⃣ | Estácio de Sá | Análise e Desenvolvimento de Sistemas | 08/2015 | 12/2017 |
+  | 3️⃣ | Senac RJ | Técnico em Contabilidade | 07/2016 | 07/2017 |
+  | 4️⃣ | Senac RJ | ```Técnico em Manutenção e Suporte de Informática``` | 12/2013 | 12/2014 |
 
   </details>
 
@@ -258,7 +258,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
     <summary>13. Experiências (tabela)</summary>
 
   | Nº   | Empresa                | Cargo                 | Início   | Fim      | Site                        |
-  |------|------------------------|-----------------------|----------|----------|-----------------------------|
+  | :-----: | :------------------------ | :-----------------------|---------- | :---------- | :---------------------------- |
   | 1️⃣   | BRQ Digital Solutions | Analista de Sistema   | 08/2021  | 09/2023  | [brq.com](https://www.brq.com/) |
 
   </details>
@@ -306,6 +306,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
     ```text
     Ainda não possuo a certificação CPA-20, mas estou disposto a obtê-la caso seja necessária.
     ```
+
   </details>
 
   <details>
@@ -314,6 +315,7 @@ Escala: 0 = insuficiente; 1 = básico; 2 = bom; 3 = ótimo
     ```text
     Em 2013, surgiu a oportunidade de realizar a manutenção de computadores em um escritório de contabilidade. Durante essa experiência, identifiquei problemas nas planilhas Excel utilizadas no controle de devedores, em uma rotina contábil e no acompanhamento de pendências fiscais de Microempreendedores Individuais (MEIs) e pessoas físicas. Essa vivência aproximou meus conhecimentos de informática e contabilidade, contribuindo para a busca de soluções que facilitassem as rotinas administrativas e contábeis.
     ```
+
   </details>
 
 </details>
